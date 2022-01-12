@@ -7,13 +7,49 @@
     <!-- 這邊設定CSS樣式 -->
     <style>
         /* 這邊是填寫要設定的CSS樣式 */
-        .stillWorking {
-            font-size: 10vw;
+        html {
+            padding: 0px;
+            margin: 0px;
+            border: 0px;
+        }
+        body {
+            padding: 0px;
+            margin: 0px;
+            border: 0px;
+        }
+        div.stillWorking {
+            width: 100vw;
+            height: 100vh;
+            padding: 0px;
+            margin: 0px;
+            border: 0px;
+            font-size: calc(100vw / 8);
+            background-color: green;
+        }
+        pre.stillWorking {
+            width: calc(100%);
+            height: calc(100% / 3);
+            padding: 0px;
+            margin: 0px;
+            border: 0px;
+            position: relative;
+            top: calc(100% / 3);
+            background-color: red;
+            font-size: calc(1em);
+            font-size-adjust: none;
+            font-kerning: none;
+            text-indent: 0px;
             text-align: center;
+            line-height: calc(100%);
+            vertical-align: middle;
         }
     </style>
 </head>
 <body>
-    <div class="stillWorking">施工中，敬請期待</div>
+    <div class="stillWorking">
+        <pre class="stillWorking">
+施工中，敬請期待
+        </pre>
+    </div>
 </body>
 </html>
