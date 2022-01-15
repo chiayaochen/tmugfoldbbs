@@ -28,3 +28,46 @@
 - 記得在 VScode 新增這個專案的資料夾，編輯上就更方便了
 
 ----
+
+### 安裝 python
+- brew install pyenv
+- brew install pyenv-virtualenv
+- Add pyenv init to your shell
+    - 讀取順序是 .zshenv → [.zprofile if login] → [.zshrc if interactive] → [.zlogin if login] → [.zlogout sometimes].
+    - 輸入 cd ~
+    - 輸入 touch .zshrc
+    - 輸入 open -e .zshrc
+    - 就可以很簡單的用文字編輯器來讀寫這個檔案。
+    - 在文字編輯器中寫入
+
+### For pyenv
+```
+export PYENV_ROOT="$HOME/.pyenv"
+export PATH="$PYENV_ROOT/bin:$PATH"
+if which pyenv > /dev/null;
+then eval "$(pyenv init -)";
+fi
+```
+
+### For pyenv-virtualenv auto-activation
+```
+if which pyenv-virtualenv-init > /dev/null;
+then eval "$(pyenv virtualenv-init -)";
+fi
+```
+- 承上，這除了設定環境變數之外，也會讓虛擬環境自動啟動
+- 輸入 source .zshrc
+    - source 指令，能從指定的檔案中讀取指令來執行，常用以執行修改過後的特殊檔案。
+- 輸入 exec "$SHELL" 重新啟動SHELL
+- pyenv versions
+    - 查詢已經安裝的python版本
+- pyenv install --list
+    - 列出可以安裝的python版本
+- pyenv install [python版本]
+    - 安裝python
+- pyenv uninstall [虛擬環境名稱]
+    - 刪除安裝的版本，包含虛擬環境
+- pyenv virtualenv [python版本] [虛擬環境名稱]
+    - 安裝虛擬環境
+
+----
