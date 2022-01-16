@@ -38,19 +38,18 @@
     - 輸入 touch .zshrc
     - 輸入 open -e .zshrc
     - 就可以很簡單的用文字編輯器來讀寫這個檔案。
-    - 在文字編輯器中寫入
-
-### For pyenv
+    - 至於要更改指令執行的路徑順序
+        - open -e /etc/paths
 ```
+export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 export PYENV_ROOT="$HOME/.pyenv"
 export PATH="$PYENV_ROOT/bin:$PATH"
+eval "$(pyenv init --path)"
+eval "$(pyenv init -)"
+eval "$(pyenv virtualenv-init -)"
 if which pyenv > /dev/null;
 then eval "$(pyenv init -)";
 fi
-```
-
-### For pyenv-virtualenv auto-activation
-```
 if which pyenv-virtualenv-init > /dev/null;
 then eval "$(pyenv virtualenv-init -)";
 fi
