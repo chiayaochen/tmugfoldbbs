@@ -1,0 +1,642 @@
+[
+  {
+    "gmail_message_id": "15bb569e595c86e2",
+    "gmail_thread_id": "15bb569e595c86e2",
+    "date": "Sat, 29 Apr 2017 00:34:20 +0800",
+    "date_iso": "2017-04-29T00:34:20+08:00",
+    "date_epoch": 1493397260.0,
+    "from": "weirdquark.bbs@bbs.tmu.edu.tw",
+    "to": [
+      "chiayao.chen@gmail.com"
+    ],
+    "cc": [],
+    "bcc": [],
+    "reply_to": [
+      "weirdquark.bbs@bbs.tmu.edu.tw"
+    ],
+    "subject": "[轉寄] Re: !!愛的紅絲帶創作比賽!!開跑囉!!     esure ",
+    "message_id_header": "<201704281634.v3SGYKuE019977@bbs.tmu.edu.tw>",
+    "in_reply_to": "",
+    "references": "",
+    "gmail_labels": [
+      "北醫基服/基服活動錄/另一任務",
+      "CATEGORY_PERSONAL"
+    ],
+    "gmail_label_ids": [
+      "Label_76",
+      "CATEGORY_PERSONAL"
+    ],
+    "file": "20170429-003420__gmail-15bb569e595c86e2__[轉寄] Re： !!愛的紅絲帶創作比賽!!開跑囉!!     esure.eml",
+    "attachments": [],
+    "raw_sha256": "2d7a3c6cf53ca3b9aade660eef5468226e81915e94b6f91da4fe4499ed40cf96",
+    "raw_git_blob_sha": "c59738f40d6eba9b844509b343d7023fec3b07ad",
+    "raw_size": 5015,
+    "preservation_format": "original-rfc822-bytes",
+    "headers": [
+      {
+        "name": "Delivered-To",
+        "value": "chiayao.chen@gmail.com"
+      },
+      {
+        "name": "Received",
+        "value": "by 10.107.1.75 with SMTP id 72csp414637iob;\r\n        Fri, 28 Apr 2017 09:34:27 -0700 (PDT)"
+      },
+      {
+        "name": "X-Received",
+        "value": "by 10.98.88.4 with SMTP id m4mr13273702pfb.41.1493397267873;\r\n        Fri, 28 Apr 2017 09:34:27 -0700 (PDT)"
+      },
+      {
+        "name": "Return-Path",
+        "value": "<weirdquark.bbs@bbs.tmu.edu.tw>"
+      },
+      {
+        "name": "Received",
+        "value": "from mgate.tmu.edu.tw (175-98-102-133.static.tfn.net.tw. [175.98.102.133])\r\n        by mx.google.com with ESMTP id x190si5489014pfb.85.2017.04.28.09.34.27\r\n        for <chiayao.chen@gmail.com>;\r\n        Fri, 28 Apr 2017 09:34:27 -0700 (PDT)"
+      },
+      {
+        "name": "Received-SPF",
+        "value": "neutral (google.com: 175.98.102.133 is neither permitted nor denied by best guess record for domain of weirdquark.bbs@bbs.tmu.edu.tw) client-ip=175.98.102.133;"
+      },
+      {
+        "name": "Authentication-Results",
+        "value": "mx.google.com;\r\n       spf=neutral (google.com: 175.98.102.133 is neither permitted nor denied by best guess record for domain of weirdquark.bbs@bbs.tmu.edu.tw) smtp.mailfrom=weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "Received",
+        "value": "from bbs.tmu.edu.tw (bbs.tmu.edu.tw [203.71.84.63])\r\n\tby mgate.tmu.edu.tw (8.13.0/8.13.0) with ESMTP id v3SGYQki001617\r\n\tfor <chiayao.chen@gmail.com>; Sat, 29 Apr 2017 00:34:26 +0800"
+      },
+      {
+        "name": "Received",
+        "value": "from bbs.tmu.edu.tw (localhost.localdomain [127.0.0.1])\r\n\tby bbs.tmu.edu.tw (8.13.8/8.13.8/Debian-3) with ESMTP id v3SGYPuN019978\r\n\tfor <chiayao.chen@gmail.com>; Sat, 29 Apr 2017 00:34:26 +0800"
+      },
+      {
+        "name": "Received",
+        "value": "(from bbs@localhost)\r\n\tby bbs.tmu.edu.tw (8.13.8/8.13.8/Submit) id v3SGYKuE019977\r\n\tfor chiayao.chen@gmail.com; Sat, 29 Apr 2017 00:34:20 +0800"
+      },
+      {
+        "name": "Date",
+        "value": "Sat, 29 Apr 2017 00:34:20 +0800"
+      },
+      {
+        "name": "From",
+        "value": "weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<201704281634.v3SGYKuE019977@bbs.tmu.edu.tw>"
+      },
+      {
+        "name": "X-Authentication-Warning",
+        "value": "bbs.tmu.edu.tw: bbs set sender to weirdquark.bbs@bbs.tmu.edu.tw using -f"
+      },
+      {
+        "name": "Reply-To",
+        "value": "weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "To",
+        "value": "chiayao.chen@gmail.com"
+      },
+      {
+        "name": "Subject",
+        "value": "[轉寄] Re: !!愛的紅絲帶創作比賽!!開跑囉!!     esure "
+      },
+      {
+        "name": "X-Forwarded-By",
+        "value": "weirdquark (^+++^)"
+      },
+      {
+        "name": "X-Disclaimer",
+        "value": "杏林綠意 對本信內容恕不負責。"
+      },
+      {
+        "name": "Precedence",
+        "value": "junk"
+      }
+    ],
+    "mime_parts": [
+      {
+        "part_number": 1,
+        "mime_type": "text/plain",
+        "charset": null,
+        "content_transfer_encoding": null,
+        "content_disposition": null,
+        "content_id": null,
+        "filename": null,
+        "size": 3030
+      }
+    ]
+  },
+  {
+    "gmail_message_id": "15bb569fc86730db",
+    "gmail_thread_id": "15bb569fc86730db",
+    "date": "Sat, 29 Apr 2017 00:34:26 +0800",
+    "date_iso": "2017-04-29T00:34:26+08:00",
+    "date_epoch": 1493397266.0,
+    "from": "weirdquark.bbs@bbs.tmu.edu.tw",
+    "to": [
+      "chiayao.chen@gmail.com"
+    ],
+    "cc": [],
+    "bcc": [],
+    "reply_to": [
+      "weirdquark.bbs@bbs.tmu.edu.tw"
+    ],
+    "subject": "[轉寄] {關懷愛滋}學生才藝創作競賽             yunchu ",
+    "message_id_header": "<201704281634.v3SGYQmo019983@bbs.tmu.edu.tw>",
+    "in_reply_to": "",
+    "references": "",
+    "gmail_labels": [
+      "北醫基服/基服活動錄/另一任務",
+      "CATEGORY_PERSONAL"
+    ],
+    "gmail_label_ids": [
+      "Label_76",
+      "CATEGORY_PERSONAL"
+    ],
+    "file": "20170429-003426__gmail-15bb569fc86730db__[轉寄] {關懷愛滋}學生才藝創作競賽             yunchu.eml",
+    "attachments": [],
+    "raw_sha256": "fc7da660c0456915eec6e18d5c3a98339518b4fbe0f31829f0cc53ab570e32df",
+    "raw_git_blob_sha": "38e7b2cc4767f03c87ae9707652dc9c1b888155b",
+    "raw_size": 4176,
+    "preservation_format": "original-rfc822-bytes",
+    "headers": [
+      {
+        "name": "Delivered-To",
+        "value": "chiayao.chen@gmail.com"
+      },
+      {
+        "name": "Received",
+        "value": "by 10.107.1.75 with SMTP id 72csp414678iob;\r\n        Fri, 28 Apr 2017 09:34:33 -0700 (PDT)"
+      },
+      {
+        "name": "X-Received",
+        "value": "by 10.99.123.81 with SMTP id k17mr13049330pgn.139.1493397273681;\r\n        Fri, 28 Apr 2017 09:34:33 -0700 (PDT)"
+      },
+      {
+        "name": "Return-Path",
+        "value": "<weirdquark.bbs@bbs.tmu.edu.tw>"
+      },
+      {
+        "name": "Received",
+        "value": "from mgate.tmu.edu.tw (175-98-102-133.static.tfn.net.tw. [175.98.102.133])\r\n        by mx.google.com with ESMTP id q75si6622708pgq.338.2017.04.28.09.34.33\r\n        for <chiayao.chen@gmail.com>;\r\n        Fri, 28 Apr 2017 09:34:33 -0700 (PDT)"
+      },
+      {
+        "name": "Received-SPF",
+        "value": "neutral (google.com: 175.98.102.133 is neither permitted nor denied by best guess record for domain of weirdquark.bbs@bbs.tmu.edu.tw) client-ip=175.98.102.133;"
+      },
+      {
+        "name": "Authentication-Results",
+        "value": "mx.google.com;\r\n       spf=neutral (google.com: 175.98.102.133 is neither permitted nor denied by best guess record for domain of weirdquark.bbs@bbs.tmu.edu.tw) smtp.mailfrom=weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "Received",
+        "value": "from bbs.tmu.edu.tw (bbs.tmu.edu.tw [203.71.84.63])\r\n\tby mgate.tmu.edu.tw (8.13.0/8.13.0) with ESMTP id v3SGYXc3001620\r\n\tfor <chiayao.chen@gmail.com>; Sat, 29 Apr 2017 00:34:33 +0800"
+      },
+      {
+        "name": "Received",
+        "value": "from bbs.tmu.edu.tw (localhost.localdomain [127.0.0.1])\r\n\tby bbs.tmu.edu.tw (8.13.8/8.13.8/Debian-3) with ESMTP id v3SGYVAD019984\r\n\tfor <chiayao.chen@gmail.com>; Sat, 29 Apr 2017 00:34:32 +0800"
+      },
+      {
+        "name": "Received",
+        "value": "(from bbs@localhost)\r\n\tby bbs.tmu.edu.tw (8.13.8/8.13.8/Submit) id v3SGYQmo019983\r\n\tfor chiayao.chen@gmail.com; Sat, 29 Apr 2017 00:34:26 +0800"
+      },
+      {
+        "name": "Date",
+        "value": "Sat, 29 Apr 2017 00:34:26 +0800"
+      },
+      {
+        "name": "From",
+        "value": "weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<201704281634.v3SGYQmo019983@bbs.tmu.edu.tw>"
+      },
+      {
+        "name": "X-Authentication-Warning",
+        "value": "bbs.tmu.edu.tw: bbs set sender to weirdquark.bbs@bbs.tmu.edu.tw using -f"
+      },
+      {
+        "name": "Reply-To",
+        "value": "weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "To",
+        "value": "chiayao.chen@gmail.com"
+      },
+      {
+        "name": "Subject",
+        "value": "[轉寄] {關懷愛滋}學生才藝創作競賽             yunchu "
+      },
+      {
+        "name": "X-Forwarded-By",
+        "value": "weirdquark (^+++^)"
+      },
+      {
+        "name": "X-Disclaimer",
+        "value": "杏林綠意 對本信內容恕不負責。"
+      },
+      {
+        "name": "Precedence",
+        "value": "junk"
+      }
+    ],
+    "mime_parts": [
+      {
+        "part_number": 1,
+        "mime_type": "text/plain",
+        "charset": null,
+        "content_transfer_encoding": null,
+        "content_disposition": null,
+        "content_id": null,
+        "filename": null,
+        "size": 2186
+      }
+    ]
+  },
+  {
+    "gmail_message_id": "15bb56a151cef8e7",
+    "gmail_thread_id": "15bb56a151cef8e7",
+    "date": "Sat, 29 Apr 2017 00:34:33 +0800",
+    "date_iso": "2017-04-29T00:34:33+08:00",
+    "date_epoch": 1493397273.0,
+    "from": "weirdquark.bbs@bbs.tmu.edu.tw",
+    "to": [
+      "chiayao.chen@gmail.com"
+    ],
+    "cc": [],
+    "bcc": [],
+    "reply_to": [
+      "weirdquark.bbs@bbs.tmu.edu.tw"
+    ],
+    "subject": "[轉寄] 春暉影展之天人交戰                     Johnlan ",
+    "message_id_header": "<201704281634.v3SGYXUV019988@bbs.tmu.edu.tw>",
+    "in_reply_to": "",
+    "references": "",
+    "gmail_labels": [
+      "北醫基服/基服活動錄/另一任務",
+      "CATEGORY_PERSONAL"
+    ],
+    "gmail_label_ids": [
+      "Label_76",
+      "CATEGORY_PERSONAL"
+    ],
+    "file": "20170429-003433__gmail-15bb56a151cef8e7__[轉寄] 春暉影展之天人交戰                     Johnlan.eml",
+    "attachments": [],
+    "raw_sha256": "64bf8f4a569c01fe4aff065203edb3faa2e458e1689b158a436d2e0bca11c389",
+    "raw_git_blob_sha": "bacd8980850ed06b3fbe7c8ee0264ab2e4ff2726",
+    "raw_size": 2471,
+    "preservation_format": "original-rfc822-bytes",
+    "headers": [
+      {
+        "name": "Delivered-To",
+        "value": "chiayao.chen@gmail.com"
+      },
+      {
+        "name": "Received",
+        "value": "by 10.107.1.75 with SMTP id 72csp414710iob;\r\n        Fri, 28 Apr 2017 09:34:39 -0700 (PDT)"
+      },
+      {
+        "name": "X-Received",
+        "value": "by 10.98.98.66 with SMTP id w63mr1746264pfb.44.1493397279934;\r\n        Fri, 28 Apr 2017 09:34:39 -0700 (PDT)"
+      },
+      {
+        "name": "Return-Path",
+        "value": "<weirdquark.bbs@bbs.tmu.edu.tw>"
+      },
+      {
+        "name": "Received",
+        "value": "from mgate.tmu.edu.tw (175-98-102-132.static.tfn.net.tw. [175.98.102.132])\r\n        by mx.google.com with ESMTP id b26si6523944pfd.232.2017.04.28.09.34.39\r\n        for <chiayao.chen@gmail.com>;\r\n        Fri, 28 Apr 2017 09:34:39 -0700 (PDT)"
+      },
+      {
+        "name": "Received-SPF",
+        "value": "neutral (google.com: 175.98.102.132 is neither permitted nor denied by best guess record for domain of weirdquark.bbs@bbs.tmu.edu.tw) client-ip=175.98.102.132;"
+      },
+      {
+        "name": "Authentication-Results",
+        "value": "mx.google.com;\r\n       spf=neutral (google.com: 175.98.102.132 is neither permitted nor denied by best guess record for domain of weirdquark.bbs@bbs.tmu.edu.tw) smtp.mailfrom=weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "Received",
+        "value": "from bbs.tmu.edu.tw (bbs.tmu.edu.tw [203.71.84.63])\r\n\tby mgate.tmu.edu.tw (8.13.0/8.13.0) with ESMTP id v3SGYdp3001623\r\n\tfor <chiayao.chen@gmail.com>; Sat, 29 Apr 2017 00:34:39 +0800"
+      },
+      {
+        "name": "Received",
+        "value": "from bbs.tmu.edu.tw (localhost.localdomain [127.0.0.1])\r\n\tby bbs.tmu.edu.tw (8.13.8/8.13.8/Debian-3) with ESMTP id v3SGYc63019989\r\n\tfor <chiayao.chen@gmail.com>; Sat, 29 Apr 2017 00:34:39 +0800"
+      },
+      {
+        "name": "Received",
+        "value": "(from bbs@localhost)\r\n\tby bbs.tmu.edu.tw (8.13.8/8.13.8/Submit) id v3SGYXUV019988\r\n\tfor chiayao.chen@gmail.com; Sat, 29 Apr 2017 00:34:33 +0800"
+      },
+      {
+        "name": "Date",
+        "value": "Sat, 29 Apr 2017 00:34:33 +0800"
+      },
+      {
+        "name": "From",
+        "value": "weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<201704281634.v3SGYXUV019988@bbs.tmu.edu.tw>"
+      },
+      {
+        "name": "X-Authentication-Warning",
+        "value": "bbs.tmu.edu.tw: bbs set sender to weirdquark.bbs@bbs.tmu.edu.tw using -f"
+      },
+      {
+        "name": "Reply-To",
+        "value": "weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "To",
+        "value": "chiayao.chen@gmail.com"
+      },
+      {
+        "name": "Subject",
+        "value": "[轉寄] 春暉影展之天人交戰                     Johnlan "
+      },
+      {
+        "name": "X-Forwarded-By",
+        "value": "weirdquark (^+++^)"
+      },
+      {
+        "name": "X-Disclaimer",
+        "value": "杏林綠意 對本信內容恕不負責。"
+      },
+      {
+        "name": "Precedence",
+        "value": "junk"
+      }
+    ],
+    "mime_parts": [
+      {
+        "part_number": 1,
+        "mime_type": "text/plain",
+        "charset": null,
+        "content_transfer_encoding": null,
+        "content_disposition": null,
+        "content_id": null,
+        "filename": null,
+        "size": 483
+      }
+    ]
+  },
+  {
+    "gmail_message_id": "15bb56a2dc83bb40",
+    "gmail_thread_id": "15bb56a2dc83bb40",
+    "date": "Sat, 29 Apr 2017 00:34:39 +0800",
+    "date_iso": "2017-04-29T00:34:39+08:00",
+    "date_epoch": 1493397279.0,
+    "from": "weirdquark.bbs@bbs.tmu.edu.tw",
+    "to": [
+      "chiayao.chen@gmail.com"
+    ],
+    "cc": [],
+    "bcc": [],
+    "reply_to": [
+      "weirdquark.bbs@bbs.tmu.edu.tw"
+    ],
+    "subject": "[轉寄] 反冷漠運動的明信片和徽章               lighthee ",
+    "message_id_header": "<201704281634.v3SGYdZI019993@bbs.tmu.edu.tw>",
+    "in_reply_to": "",
+    "references": "",
+    "gmail_labels": [
+      "北醫基服/基服活動錄/另一任務",
+      "CATEGORY_PERSONAL"
+    ],
+    "gmail_label_ids": [
+      "Label_76",
+      "CATEGORY_PERSONAL"
+    ],
+    "file": "20170429-003439__gmail-15bb56a2dc83bb40__[轉寄] 反冷漠運動的明信片和徽章               lighthee.eml",
+    "attachments": [],
+    "raw_sha256": "4bb74a9d770455a4778ab9cb68604bd20ec9d8f54c2d089ea9a41885a1510db8",
+    "raw_git_blob_sha": "32d33af25f849d6514473237fa9699cce6237bdf",
+    "raw_size": 3049,
+    "preservation_format": "original-rfc822-bytes",
+    "headers": [
+      {
+        "name": "Delivered-To",
+        "value": "chiayao.chen@gmail.com"
+      },
+      {
+        "name": "Received",
+        "value": "by 10.107.1.75 with SMTP id 72csp414770iob;\r\n        Fri, 28 Apr 2017 09:34:46 -0700 (PDT)"
+      },
+      {
+        "name": "X-Received",
+        "value": "by 10.98.28.68 with SMTP id c65mr13513950pfc.124.1493397286360;\r\n        Fri, 28 Apr 2017 09:34:46 -0700 (PDT)"
+      },
+      {
+        "name": "Return-Path",
+        "value": "<weirdquark.bbs@bbs.tmu.edu.tw>"
+      },
+      {
+        "name": "Received",
+        "value": "from mgate.tmu.edu.tw (175-98-102-133.static.tfn.net.tw. [175.98.102.133])\r\n        by mx.google.com with ESMTP id y16si6861841pli.71.2017.04.28.09.34.45\r\n        for <chiayao.chen@gmail.com>;\r\n        Fri, 28 Apr 2017 09:34:46 -0700 (PDT)"
+      },
+      {
+        "name": "Received-SPF",
+        "value": "neutral (google.com: 175.98.102.133 is neither permitted nor denied by best guess record for domain of weirdquark.bbs@bbs.tmu.edu.tw) client-ip=175.98.102.133;"
+      },
+      {
+        "name": "Authentication-Results",
+        "value": "mx.google.com;\r\n       spf=neutral (google.com: 175.98.102.133 is neither permitted nor denied by best guess record for domain of weirdquark.bbs@bbs.tmu.edu.tw) smtp.mailfrom=weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "Received",
+        "value": "from bbs.tmu.edu.tw (bbs.tmu.edu.tw [203.71.84.63])\r\n\tby mgate.tmu.edu.tw (8.13.0/8.13.0) with ESMTP id v3SGYjXC001626\r\n\tfor <chiayao.chen@gmail.com>; Sat, 29 Apr 2017 00:34:45 +0800"
+      },
+      {
+        "name": "Received",
+        "value": "from bbs.tmu.edu.tw (localhost.localdomain [127.0.0.1])\r\n\tby bbs.tmu.edu.tw (8.13.8/8.13.8/Debian-3) with ESMTP id v3SGYiIN019994\r\n\tfor <chiayao.chen@gmail.com>; Sat, 29 Apr 2017 00:34:45 +0800"
+      },
+      {
+        "name": "Received",
+        "value": "(from bbs@localhost)\r\n\tby bbs.tmu.edu.tw (8.13.8/8.13.8/Submit) id v3SGYdZI019993\r\n\tfor chiayao.chen@gmail.com; Sat, 29 Apr 2017 00:34:39 +0800"
+      },
+      {
+        "name": "Date",
+        "value": "Sat, 29 Apr 2017 00:34:39 +0800"
+      },
+      {
+        "name": "From",
+        "value": "weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<201704281634.v3SGYdZI019993@bbs.tmu.edu.tw>"
+      },
+      {
+        "name": "X-Authentication-Warning",
+        "value": "bbs.tmu.edu.tw: bbs set sender to weirdquark.bbs@bbs.tmu.edu.tw using -f"
+      },
+      {
+        "name": "Reply-To",
+        "value": "weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "To",
+        "value": "chiayao.chen@gmail.com"
+      },
+      {
+        "name": "Subject",
+        "value": "[轉寄] 反冷漠運動的明信片和徽章               lighthee "
+      },
+      {
+        "name": "X-Forwarded-By",
+        "value": "weirdquark (^+++^)"
+      },
+      {
+        "name": "X-Disclaimer",
+        "value": "杏林綠意 對本信內容恕不負責。"
+      },
+      {
+        "name": "Precedence",
+        "value": "junk"
+      }
+    ],
+    "mime_parts": [
+      {
+        "part_number": 1,
+        "mime_type": "text/plain",
+        "charset": null,
+        "content_transfer_encoding": null,
+        "content_disposition": null,
+        "content_id": null,
+        "filename": null,
+        "size": 1059
+      }
+    ]
+  },
+  {
+    "gmail_message_id": "15bb56a453492259",
+    "gmail_thread_id": "15bb56a453492259",
+    "date": "Sat, 29 Apr 2017 00:34:45 +0800",
+    "date_iso": "2017-04-29T00:34:45+08:00",
+    "date_epoch": 1493397285.0,
+    "from": "weirdquark.bbs@bbs.tmu.edu.tw",
+    "to": [
+      "chiayao.chen@gmail.com"
+    ],
+    "cc": [],
+    "bcc": [],
+    "reply_to": [
+      "weirdquark.bbs@bbs.tmu.edu.tw"
+    ],
+    "subject": "[轉寄] Re: 反冷漠運動的明信片和徽章           AQQ ",
+    "message_id_header": "<201704281634.v3SGYj4E019998@bbs.tmu.edu.tw>",
+    "in_reply_to": "",
+    "references": "",
+    "gmail_labels": [
+      "北醫基服/基服活動錄/另一任務",
+      "CATEGORY_PERSONAL"
+    ],
+    "gmail_label_ids": [
+      "Label_76",
+      "CATEGORY_PERSONAL"
+    ],
+    "file": "20170429-003445__gmail-15bb56a453492259__[轉寄] Re： 反冷漠運動的明信片和徽章           AQQ.eml",
+    "attachments": [],
+    "raw_sha256": "6b45214f0cfbfe5a2f4560d8436de09108236dddc43dfb989caf85e84b257c7b",
+    "raw_git_blob_sha": "cf3226d384d0e1dc896499fb6940359b97d1e1a7",
+    "raw_size": 3117,
+    "preservation_format": "original-rfc822-bytes",
+    "headers": [
+      {
+        "name": "Delivered-To",
+        "value": "chiayao.chen@gmail.com"
+      },
+      {
+        "name": "Received",
+        "value": "by 10.107.1.75 with SMTP id 72csp414822iob;\r\n        Fri, 28 Apr 2017 09:34:52 -0700 (PDT)"
+      },
+      {
+        "name": "X-Received",
+        "value": "by 10.98.56.216 with SMTP id f207mr13079969pfa.71.1493397292351;\r\n        Fri, 28 Apr 2017 09:34:52 -0700 (PDT)"
+      },
+      {
+        "name": "Return-Path",
+        "value": "<weirdquark.bbs@bbs.tmu.edu.tw>"
+      },
+      {
+        "name": "Received",
+        "value": "from mgate.tmu.edu.tw (175-98-102-132.static.tfn.net.tw. [175.98.102.132])\r\n        by mx.google.com with ESMTP id f6si6606446pln.233.2017.04.28.09.34.52\r\n        for <chiayao.chen@gmail.com>;\r\n        Fri, 28 Apr 2017 09:34:52 -0700 (PDT)"
+      },
+      {
+        "name": "Received-SPF",
+        "value": "neutral (google.com: 175.98.102.132 is neither permitted nor denied by best guess record for domain of weirdquark.bbs@bbs.tmu.edu.tw) client-ip=175.98.102.132;"
+      },
+      {
+        "name": "Authentication-Results",
+        "value": "mx.google.com;\r\n       spf=neutral (google.com: 175.98.102.132 is neither permitted nor denied by best guess record for domain of weirdquark.bbs@bbs.tmu.edu.tw) smtp.mailfrom=weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "Received",
+        "value": "from bbs.tmu.edu.tw (bbs.tmu.edu.tw [203.71.84.63])\r\n\tby mgate.tmu.edu.tw (8.13.0/8.13.0) with ESMTP id v3SGYp3r001633\r\n\tfor <chiayao.chen@gmail.com>; Sat, 29 Apr 2017 00:34:51 +0800"
+      },
+      {
+        "name": "Received",
+        "value": "from bbs.tmu.edu.tw (localhost.localdomain [127.0.0.1])\r\n\tby bbs.tmu.edu.tw (8.13.8/8.13.8/Debian-3) with ESMTP id v3SGYoRp019999\r\n\tfor <chiayao.chen@gmail.com>; Sat, 29 Apr 2017 00:34:51 +0800"
+      },
+      {
+        "name": "Received",
+        "value": "(from bbs@localhost)\r\n\tby bbs.tmu.edu.tw (8.13.8/8.13.8/Submit) id v3SGYj4E019998\r\n\tfor chiayao.chen@gmail.com; Sat, 29 Apr 2017 00:34:45 +0800"
+      },
+      {
+        "name": "Date",
+        "value": "Sat, 29 Apr 2017 00:34:45 +0800"
+      },
+      {
+        "name": "From",
+        "value": "weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<201704281634.v3SGYj4E019998@bbs.tmu.edu.tw>"
+      },
+      {
+        "name": "X-Authentication-Warning",
+        "value": "bbs.tmu.edu.tw: bbs set sender to weirdquark.bbs@bbs.tmu.edu.tw using -f"
+      },
+      {
+        "name": "Reply-To",
+        "value": "weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "To",
+        "value": "chiayao.chen@gmail.com"
+      },
+      {
+        "name": "Subject",
+        "value": "[轉寄] Re: 反冷漠運動的明信片和徽章           AQQ "
+      },
+      {
+        "name": "X-Forwarded-By",
+        "value": "weirdquark (^+++^)"
+      },
+      {
+        "name": "X-Disclaimer",
+        "value": "杏林綠意 對本信內容恕不負責。"
+      },
+      {
+        "name": "Precedence",
+        "value": "junk"
+      }
+    ],
+    "mime_parts": [
+      {
+        "part_number": 1,
+        "mime_type": "text/plain",
+        "charset": null,
+        "content_transfer_encoding": null,
+        "content_disposition": null,
+        "content_id": null,
+        "filename": null,
+        "size": 1131
+      }
+    ]
+  }
+]
