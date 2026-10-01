@@ -1,0 +1,31 @@
+{
+  "verified_at": "2026-10-01T14:51:11.073515+00:00",
+  "remote_tree_sha": "7ff2e074851e9b09709d585aceba64dc9652a952",
+  "tree_truncated": false,
+  "expected_archive_files": 2716,
+  "matched_archive_files": 2716,
+  "missing_files": [],
+  "content_conflicts": [],
+  "unique_remote_message_ids": 2534,
+  "expected_unique_message_ids": 2534,
+  "missing_message_ids": [],
+  "unexpected_message_ids": [],
+  "placement_mismatches": [],
+  "label_missing_message_ids": [],
+  "gmail_label_count_mismatches": [],
+  "remote_eml_files": 2547,
+  "passed": true,
+  "verified_data_commit": "647891d2d9e019474fe4c45793d30ac8e7d85e6a",
+  "gmail_counts_rechecked_after_upload": true,
+  "all_related_labels_rechecked": 167,
+  "checks": [
+    "every local file blob hash matches remote GitHub tree",
+    "all 2534 unique Gmail message IDs present",
+    "all 2547 original eml files present",
+    "deepest-label placements exactly match actual Gmail labels",
+    "all 167 messagesTotal values match complete paginated searches",
+    "all label membership IDs are archived after ancestor deduplication",
+    "all 34 empty labels retain .gitkeep",
+    "all 133 indices sorted oldest to newest"
+  ]
+}

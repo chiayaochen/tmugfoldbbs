@@ -1,0 +1,132 @@
+[
+  {
+    "gmail_message_id": "15bab3d81da998cf",
+    "gmail_thread_id": "15bab3d81da998cf",
+    "date": "Thu, 27 Apr 2017 01:09:39 +0800",
+    "date_iso": "2017-04-27T01:09:39+08:00",
+    "date_epoch": 1493226579.0,
+    "from": "weirdquark.bbs@bbs.tmu.edu.tw",
+    "to": [
+      "chiayao.chen@gmail.com"
+    ],
+    "cc": [],
+    "bcc": [],
+    "reply_to": [
+      "weirdquark.bbs@bbs.tmu.edu.tw"
+    ],
+    "subject": "[轉寄] [公告]本團第十五屆團長、副團長出爐囉!! phoebus ",
+    "message_id_header": "<201704261709.v3QH9dsM000342@bbs.tmu.edu.tw>",
+    "in_reply_to": "",
+    "references": "",
+    "gmail_labels": [
+      "IMPORTANT",
+      "北醫基服/基服名人堂/基服大頭兒/基15",
+      "CATEGORY_PERSONAL"
+    ],
+    "gmail_label_ids": [
+      "IMPORTANT",
+      "Label_36",
+      "CATEGORY_PERSONAL"
+    ],
+    "file": "20170427-010939__gmail-15bab3d81da998cf__[轉寄] [公告]本團第十五屆團長、副團長出爐囉!! phoebus.eml",
+    "attachments": [],
+    "raw_sha256": "dd559f5e220e0e0653c8514bf318bb159d344aad56f6dcf040595b8d5bd71374",
+    "raw_git_blob_sha": "1f3fbdf20d8c95da90ae3cff2e9fee1627f6a913",
+    "raw_size": 3037,
+    "preservation_format": "original-rfc822-bytes",
+    "headers": [
+      {
+        "name": "Delivered-To",
+        "value": "chiayao.chen@gmail.com"
+      },
+      {
+        "name": "Received",
+        "value": "by 10.107.1.75 with SMTP id 72csp490427iob;\r\n        Wed, 26 Apr 2017 10:09:46 -0700 (PDT)"
+      },
+      {
+        "name": "X-Received",
+        "value": "by 10.98.159.144 with SMTP id v16mr873213pfk.57.1493226586630;\r\n        Wed, 26 Apr 2017 10:09:46 -0700 (PDT)"
+      },
+      {
+        "name": "Return-Path",
+        "value": "<weirdquark.bbs@bbs.tmu.edu.tw>"
+      },
+      {
+        "name": "Received",
+        "value": "from mgate.tmu.edu.tw (175-98-102-133.static.tfn.net.tw. [175.98.102.133])\r\n        by mx.google.com with ESMTP id l17si930909pgj.292.2017.04.26.10.09.46\r\n        for <chiayao.chen@gmail.com>;\r\n        Wed, 26 Apr 2017 10:09:46 -0700 (PDT)"
+      },
+      {
+        "name": "Received-SPF",
+        "value": "neutral (google.com: 175.98.102.133 is neither permitted nor denied by best guess record for domain of weirdquark.bbs@bbs.tmu.edu.tw) client-ip=175.98.102.133;"
+      },
+      {
+        "name": "Authentication-Results",
+        "value": "mx.google.com;\r\n       spf=neutral (google.com: 175.98.102.133 is neither permitted nor denied by best guess record for domain of weirdquark.bbs@bbs.tmu.edu.tw) smtp.mailfrom=weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "Received",
+        "value": "from bbs.tmu.edu.tw (bbs.tmu.edu.tw [203.71.84.63])\r\n\tby mgate.tmu.edu.tw (8.13.0/8.13.0) with ESMTP id v3QH9jvq008099\r\n\tfor <chiayao.chen@gmail.com>; Thu, 27 Apr 2017 01:09:45 +0800"
+      },
+      {
+        "name": "Received",
+        "value": "from bbs.tmu.edu.tw (localhost.localdomain [127.0.0.1])\r\n\tby bbs.tmu.edu.tw (8.13.8/8.13.8/Debian-3) with ESMTP id v3QH9iC4000343\r\n\tfor <chiayao.chen@gmail.com>; Thu, 27 Apr 2017 01:09:45 +0800"
+      },
+      {
+        "name": "Received",
+        "value": "(from bbs@localhost)\r\n\tby bbs.tmu.edu.tw (8.13.8/8.13.8/Submit) id v3QH9dsM000342\r\n\tfor chiayao.chen@gmail.com; Thu, 27 Apr 2017 01:09:39 +0800"
+      },
+      {
+        "name": "Date",
+        "value": "Thu, 27 Apr 2017 01:09:39 +0800"
+      },
+      {
+        "name": "From",
+        "value": "weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<201704261709.v3QH9dsM000342@bbs.tmu.edu.tw>"
+      },
+      {
+        "name": "X-Authentication-Warning",
+        "value": "bbs.tmu.edu.tw: bbs set sender to weirdquark.bbs@bbs.tmu.edu.tw using -f"
+      },
+      {
+        "name": "Reply-To",
+        "value": "weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "To",
+        "value": "chiayao.chen@gmail.com"
+      },
+      {
+        "name": "Subject",
+        "value": "[轉寄] [公告]本團第十五屆團長、副團長出爐囉!! phoebus "
+      },
+      {
+        "name": "X-Forwarded-By",
+        "value": "weirdquark (^+++^)"
+      },
+      {
+        "name": "X-Disclaimer",
+        "value": "杏林綠意 對本信內容恕不負責。"
+      },
+      {
+        "name": "Precedence",
+        "value": "junk"
+      }
+    ],
+    "mime_parts": [
+      {
+        "part_number": 1,
+        "mime_type": "text/plain",
+        "charset": null,
+        "content_transfer_encoding": null,
+        "content_disposition": null,
+        "content_id": null,
+        "filename": null,
+        "size": 1049
+      }
+    ]
+  }
+]

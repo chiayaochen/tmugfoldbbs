@@ -1,0 +1,652 @@
+[
+  {
+    "gmail_message_id": "15bab8e8a940f626",
+    "gmail_thread_id": "15bab8e8a940f626",
+    "date": "Thu, 27 Apr 2017 02:38:10 +0800",
+    "date_iso": "2017-04-27T02:38:10+08:00",
+    "date_epoch": 1493231890.0,
+    "from": "weirdquark.bbs@bbs.tmu.edu.tw",
+    "to": [
+      "chiayao.chen@gmail.com"
+    ],
+    "cc": [],
+    "bcc": [],
+    "reply_to": [
+      "weirdquark.bbs@bbs.tmu.edu.tw"
+    ],
+    "subject": "[轉寄] 一夜激情                               treasure ",
+    "message_id_header": "<201704261838.v3QIcATw001478@bbs.tmu.edu.tw>",
+    "in_reply_to": "",
+    "references": "",
+    "gmail_labels": [
+      "IMPORTANT",
+      "北醫基服/基服公告集/基服公告/基17之前期間公告與大事記/基服之夜",
+      "CATEGORY_PERSONAL"
+    ],
+    "gmail_label_ids": [
+      "IMPORTANT",
+      "Label_65",
+      "CATEGORY_PERSONAL"
+    ],
+    "file": "20170427-023810__gmail-15bab8e8a940f626__[轉寄] 一夜激情                               treasure.eml",
+    "attachments": [],
+    "raw_sha256": "c2336601d64f113518d85a1bc43d09cd7a50c57b1d2962470698329f9bc68437",
+    "raw_git_blob_sha": "0ba46d2326f8b851b055dc015ca42987ff65c213",
+    "raw_size": 4259,
+    "preservation_format": "original-rfc822-bytes",
+    "headers": [
+      {
+        "name": "Delivered-To",
+        "value": "chiayao.chen@gmail.com"
+      },
+      {
+        "name": "Received",
+        "value": "by 10.107.1.75 with SMTP id 72csp532596iob;\r\n        Wed, 26 Apr 2017 11:38:17 -0700 (PDT)"
+      },
+      {
+        "name": "X-Received",
+        "value": "by 10.99.111.1 with SMTP id k1mr1296437pgc.194.1493231897216;\r\n        Wed, 26 Apr 2017 11:38:17 -0700 (PDT)"
+      },
+      {
+        "name": "Return-Path",
+        "value": "<weirdquark.bbs@bbs.tmu.edu.tw>"
+      },
+      {
+        "name": "Received",
+        "value": "from mgate.tmu.edu.tw (175-98-102-132.static.tfn.net.tw. [175.98.102.132])\r\n        by mx.google.com with ESMTP id q3si65629pfd.238.2017.04.26.11.38.16\r\n        for <chiayao.chen@gmail.com>;\r\n        Wed, 26 Apr 2017 11:38:17 -0700 (PDT)"
+      },
+      {
+        "name": "Received-SPF",
+        "value": "neutral (google.com: 175.98.102.132 is neither permitted nor denied by best guess record for domain of weirdquark.bbs@bbs.tmu.edu.tw) client-ip=175.98.102.132;"
+      },
+      {
+        "name": "Authentication-Results",
+        "value": "mx.google.com;\r\n       spf=neutral (google.com: 175.98.102.132 is neither permitted nor denied by best guess record for domain of weirdquark.bbs@bbs.tmu.edu.tw) smtp.mailfrom=weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "Received",
+        "value": "from bbs.tmu.edu.tw (bbs.tmu.edu.tw [203.71.84.63])\r\n\tby mgate.tmu.edu.tw (8.13.0/8.13.0) with ESMTP id v3QIcG6x009266\r\n\tfor <chiayao.chen@gmail.com>; Thu, 27 Apr 2017 02:38:16 +0800"
+      },
+      {
+        "name": "Received",
+        "value": "from bbs.tmu.edu.tw (localhost.localdomain [127.0.0.1])\r\n\tby bbs.tmu.edu.tw (8.13.8/8.13.8/Debian-3) with ESMTP id v3QIcFvf001479\r\n\tfor <chiayao.chen@gmail.com>; Thu, 27 Apr 2017 02:38:16 +0800"
+      },
+      {
+        "name": "Received",
+        "value": "(from bbs@localhost)\r\n\tby bbs.tmu.edu.tw (8.13.8/8.13.8/Submit) id v3QIcATw001478\r\n\tfor chiayao.chen@gmail.com; Thu, 27 Apr 2017 02:38:10 +0800"
+      },
+      {
+        "name": "Date",
+        "value": "Thu, 27 Apr 2017 02:38:10 +0800"
+      },
+      {
+        "name": "From",
+        "value": "weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<201704261838.v3QIcATw001478@bbs.tmu.edu.tw>"
+      },
+      {
+        "name": "X-Authentication-Warning",
+        "value": "bbs.tmu.edu.tw: bbs set sender to weirdquark.bbs@bbs.tmu.edu.tw using -f"
+      },
+      {
+        "name": "Reply-To",
+        "value": "weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "To",
+        "value": "chiayao.chen@gmail.com"
+      },
+      {
+        "name": "Subject",
+        "value": "[轉寄] 一夜激情                               treasure "
+      },
+      {
+        "name": "X-Forwarded-By",
+        "value": "weirdquark (^+++^)"
+      },
+      {
+        "name": "X-Disclaimer",
+        "value": "杏林綠意 對本信內容恕不負責。"
+      },
+      {
+        "name": "Precedence",
+        "value": "junk"
+      }
+    ],
+    "mime_parts": [
+      {
+        "part_number": 1,
+        "mime_type": "text/plain",
+        "charset": null,
+        "content_transfer_encoding": null,
+        "content_disposition": null,
+        "content_id": null,
+        "filename": null,
+        "size": 2273
+      }
+    ]
+  },
+  {
+    "gmail_message_id": "15bab8ea34a640f8",
+    "gmail_thread_id": "15bab8ea34a640f8",
+    "date": "Thu, 27 Apr 2017 02:38:16 +0800",
+    "date_iso": "2017-04-27T02:38:16+08:00",
+    "date_epoch": 1493231896.0,
+    "from": "weirdquark.bbs@bbs.tmu.edu.tw",
+    "to": [
+      "chiayao.chen@gmail.com"
+    ],
+    "cc": [],
+    "bcc": [],
+    "reply_to": [
+      "weirdquark.bbs@bbs.tmu.edu.tw"
+    ],
+    "subject": "[轉寄] 基情夜 夜激情                          treasure ",
+    "message_id_header": "<201704261838.v3QIcGtm001483@bbs.tmu.edu.tw>",
+    "in_reply_to": "",
+    "references": "",
+    "gmail_labels": [
+      "IMPORTANT",
+      "北醫基服/基服公告集/基服公告/基17之前期間公告與大事記/基服之夜",
+      "CATEGORY_PERSONAL"
+    ],
+    "gmail_label_ids": [
+      "IMPORTANT",
+      "Label_65",
+      "CATEGORY_PERSONAL"
+    ],
+    "file": "20170427-023816__gmail-15bab8ea34a640f8__[轉寄] 基情夜 夜激情                          treasure.eml",
+    "attachments": [],
+    "raw_sha256": "6cd4fa90d44a324ba16392d86bd9b51e8f454974c1faf87c858e26294a6ecd8e",
+    "raw_git_blob_sha": "445b235142c0e24fa065d6ee9211f379e1c4f632",
+    "raw_size": 4219,
+    "preservation_format": "original-rfc822-bytes",
+    "headers": [
+      {
+        "name": "Delivered-To",
+        "value": "chiayao.chen@gmail.com"
+      },
+      {
+        "name": "Received",
+        "value": "by 10.107.1.75 with SMTP id 72csp532632iob;\r\n        Wed, 26 Apr 2017 11:38:23 -0700 (PDT)"
+      },
+      {
+        "name": "X-Received",
+        "value": "by 10.98.106.199 with SMTP id f190mr1413857pfc.142.1493231903311;\r\n        Wed, 26 Apr 2017 11:38:23 -0700 (PDT)"
+      },
+      {
+        "name": "Return-Path",
+        "value": "<weirdquark.bbs@bbs.tmu.edu.tw>"
+      },
+      {
+        "name": "Received",
+        "value": "from mgate.tmu.edu.tw (175-98-102-133.static.tfn.net.tw. [175.98.102.133])\r\n        by mx.google.com with ESMTP id i86si39897pfd.371.2017.04.26.11.38.22\r\n        for <chiayao.chen@gmail.com>;\r\n        Wed, 26 Apr 2017 11:38:23 -0700 (PDT)"
+      },
+      {
+        "name": "Received-SPF",
+        "value": "neutral (google.com: 175.98.102.133 is neither permitted nor denied by best guess record for domain of weirdquark.bbs@bbs.tmu.edu.tw) client-ip=175.98.102.133;"
+      },
+      {
+        "name": "Authentication-Results",
+        "value": "mx.google.com;\r\n       spf=neutral (google.com: 175.98.102.133 is neither permitted nor denied by best guess record for domain of weirdquark.bbs@bbs.tmu.edu.tw) smtp.mailfrom=weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "Received",
+        "value": "from bbs.tmu.edu.tw (bbs.tmu.edu.tw [203.71.84.63])\r\n\tby mgate.tmu.edu.tw (8.13.0/8.13.0) with ESMTP id v3QIcMo0009270\r\n\tfor <chiayao.chen@gmail.com>; Thu, 27 Apr 2017 02:38:22 +0800"
+      },
+      {
+        "name": "Received",
+        "value": "from bbs.tmu.edu.tw (localhost.localdomain [127.0.0.1])\r\n\tby bbs.tmu.edu.tw (8.13.8/8.13.8/Debian-3) with ESMTP id v3QIcLnw001484\r\n\tfor <chiayao.chen@gmail.com>; Thu, 27 Apr 2017 02:38:22 +0800"
+      },
+      {
+        "name": "Received",
+        "value": "(from bbs@localhost)\r\n\tby bbs.tmu.edu.tw (8.13.8/8.13.8/Submit) id v3QIcGtm001483\r\n\tfor chiayao.chen@gmail.com; Thu, 27 Apr 2017 02:38:16 +0800"
+      },
+      {
+        "name": "Date",
+        "value": "Thu, 27 Apr 2017 02:38:16 +0800"
+      },
+      {
+        "name": "From",
+        "value": "weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<201704261838.v3QIcGtm001483@bbs.tmu.edu.tw>"
+      },
+      {
+        "name": "X-Authentication-Warning",
+        "value": "bbs.tmu.edu.tw: bbs set sender to weirdquark.bbs@bbs.tmu.edu.tw using -f"
+      },
+      {
+        "name": "Reply-To",
+        "value": "weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "To",
+        "value": "chiayao.chen@gmail.com"
+      },
+      {
+        "name": "Subject",
+        "value": "[轉寄] 基情夜 夜激情                          treasure "
+      },
+      {
+        "name": "X-Forwarded-By",
+        "value": "weirdquark (^+++^)"
+      },
+      {
+        "name": "X-Disclaimer",
+        "value": "杏林綠意 對本信內容恕不負責。"
+      },
+      {
+        "name": "Precedence",
+        "value": "junk"
+      }
+    ],
+    "mime_parts": [
+      {
+        "part_number": 1,
+        "mime_type": "text/plain",
+        "charset": null,
+        "content_transfer_encoding": null,
+        "content_disposition": null,
+        "content_id": null,
+        "filename": null,
+        "size": 2228
+      }
+    ]
+  },
+  {
+    "gmail_message_id": "15bab8ebbbd226ab",
+    "gmail_thread_id": "15bab8ebbbd226ab",
+    "date": "Thu, 27 Apr 2017 02:38:22 +0800",
+    "date_iso": "2017-04-27T02:38:22+08:00",
+    "date_epoch": 1493231902.0,
+    "from": "weirdquark.bbs@bbs.tmu.edu.tw",
+    "to": [
+      "chiayao.chen@gmail.com"
+    ],
+    "cc": [],
+    "bcc": [],
+    "reply_to": [
+      "weirdquark.bbs@bbs.tmu.edu.tw"
+    ],
+    "subject": "[轉寄] 基服之夜                               treasure ",
+    "message_id_header": "<201704261838.v3QIcMx7001489@bbs.tmu.edu.tw>",
+    "in_reply_to": "",
+    "references": "",
+    "gmail_labels": [
+      "IMPORTANT",
+      "北醫基服/基服公告集/基服公告/基17之前期間公告與大事記/基服之夜",
+      "CATEGORY_PERSONAL"
+    ],
+    "gmail_label_ids": [
+      "IMPORTANT",
+      "Label_65",
+      "CATEGORY_PERSONAL"
+    ],
+    "file": "20170427-023822__gmail-15bab8ebbbd226ab__[轉寄] 基服之夜                               treasure.eml",
+    "attachments": [],
+    "raw_sha256": "f948a71bcb788c43ca6b0d7e7f36c20510f76045fecf3909e25c284f2338fd90",
+    "raw_git_blob_sha": "9bb3828a91ab8b8585e0d02ce9393f165236f1d7",
+    "raw_size": 3742,
+    "preservation_format": "original-rfc822-bytes",
+    "headers": [
+      {
+        "name": "Delivered-To",
+        "value": "chiayao.chen@gmail.com"
+      },
+      {
+        "name": "Received",
+        "value": "by 10.107.1.75 with SMTP id 72csp532686iob;\r\n        Wed, 26 Apr 2017 11:38:29 -0700 (PDT)"
+      },
+      {
+        "name": "X-Received",
+        "value": "by 10.99.55.75 with SMTP id g11mr1281497pgn.224.1493231909526;\r\n        Wed, 26 Apr 2017 11:38:29 -0700 (PDT)"
+      },
+      {
+        "name": "Return-Path",
+        "value": "<weirdquark.bbs@bbs.tmu.edu.tw>"
+      },
+      {
+        "name": "Received",
+        "value": "from mgate.tmu.edu.tw (175-98-102-132.static.tfn.net.tw. [175.98.102.132])\r\n        by mx.google.com with ESMTP id c1si37898pld.316.2017.04.26.11.38.29\r\n        for <chiayao.chen@gmail.com>;\r\n        Wed, 26 Apr 2017 11:38:29 -0700 (PDT)"
+      },
+      {
+        "name": "Received-SPF",
+        "value": "neutral (google.com: 175.98.102.132 is neither permitted nor denied by best guess record for domain of weirdquark.bbs@bbs.tmu.edu.tw) client-ip=175.98.102.132;"
+      },
+      {
+        "name": "Authentication-Results",
+        "value": "mx.google.com;\r\n       spf=neutral (google.com: 175.98.102.132 is neither permitted nor denied by best guess record for domain of weirdquark.bbs@bbs.tmu.edu.tw) smtp.mailfrom=weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "Received",
+        "value": "from bbs.tmu.edu.tw (bbs.tmu.edu.tw [203.71.84.63])\r\n\tby mgate.tmu.edu.tw (8.13.0/8.13.0) with ESMTP id v3QIcSU9009273\r\n\tfor <chiayao.chen@gmail.com>; Thu, 27 Apr 2017 02:38:28 +0800"
+      },
+      {
+        "name": "Received",
+        "value": "from bbs.tmu.edu.tw (localhost.localdomain [127.0.0.1])\r\n\tby bbs.tmu.edu.tw (8.13.8/8.13.8/Debian-3) with ESMTP id v3QIcRiJ001491\r\n\tfor <chiayao.chen@gmail.com>; Thu, 27 Apr 2017 02:38:28 +0800"
+      },
+      {
+        "name": "Received",
+        "value": "(from bbs@localhost)\r\n\tby bbs.tmu.edu.tw (8.13.8/8.13.8/Submit) id v3QIcMx7001489\r\n\tfor chiayao.chen@gmail.com; Thu, 27 Apr 2017 02:38:22 +0800"
+      },
+      {
+        "name": "Date",
+        "value": "Thu, 27 Apr 2017 02:38:22 +0800"
+      },
+      {
+        "name": "From",
+        "value": "weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<201704261838.v3QIcMx7001489@bbs.tmu.edu.tw>"
+      },
+      {
+        "name": "X-Authentication-Warning",
+        "value": "bbs.tmu.edu.tw: bbs set sender to weirdquark.bbs@bbs.tmu.edu.tw using -f"
+      },
+      {
+        "name": "Reply-To",
+        "value": "weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "To",
+        "value": "chiayao.chen@gmail.com"
+      },
+      {
+        "name": "Subject",
+        "value": "[轉寄] 基服之夜                               treasure "
+      },
+      {
+        "name": "X-Forwarded-By",
+        "value": "weirdquark (^+++^)"
+      },
+      {
+        "name": "X-Disclaimer",
+        "value": "杏林綠意 對本信內容恕不負責。"
+      },
+      {
+        "name": "Precedence",
+        "value": "junk"
+      }
+    ],
+    "mime_parts": [
+      {
+        "part_number": 1,
+        "mime_type": "text/plain",
+        "charset": null,
+        "content_transfer_encoding": null,
+        "content_disposition": null,
+        "content_id": null,
+        "filename": null,
+        "size": 1755
+      }
+    ]
+  },
+  {
+    "gmail_message_id": "15bab8ed37437f7a",
+    "gmail_thread_id": "15bab8ed37437f7a",
+    "date": "Thu, 27 Apr 2017 02:38:28 +0800",
+    "date_iso": "2017-04-27T02:38:28+08:00",
+    "date_epoch": 1493231908.0,
+    "from": "weirdquark.bbs@bbs.tmu.edu.tw",
+    "to": [
+      "chiayao.chen@gmail.com"
+    ],
+    "cc": [],
+    "bcc": [],
+    "reply_to": [
+      "weirdquark.bbs@bbs.tmu.edu.tw"
+    ],
+    "subject": "[轉寄] 基服之夜                               Tsuki ",
+    "message_id_header": "<201704261838.v3QIcSJJ001495@bbs.tmu.edu.tw>",
+    "in_reply_to": "",
+    "references": "",
+    "gmail_labels": [
+      "IMPORTANT",
+      "北醫基服/基服公告集/基服公告/基17之前期間公告與大事記/基服之夜",
+      "CATEGORY_PERSONAL"
+    ],
+    "gmail_label_ids": [
+      "IMPORTANT",
+      "Label_65",
+      "CATEGORY_PERSONAL"
+    ],
+    "file": "20170427-023828__gmail-15bab8ed37437f7a__[轉寄] 基服之夜                               Tsuki.eml",
+    "attachments": [],
+    "raw_sha256": "10ecef7e7091aa578e54a5ff2e8d383b7a881212ff53f1d4b62dbba2eb5fb681",
+    "raw_git_blob_sha": "b1e1f4d5d533272df84b9503855dcfaccf432384",
+    "raw_size": 2756,
+    "preservation_format": "original-rfc822-bytes",
+    "headers": [
+      {
+        "name": "Delivered-To",
+        "value": "chiayao.chen@gmail.com"
+      },
+      {
+        "name": "Received",
+        "value": "by 10.107.1.75 with SMTP id 72csp532727iob;\r\n        Wed, 26 Apr 2017 11:38:35 -0700 (PDT)"
+      },
+      {
+        "name": "X-Received",
+        "value": "by 10.98.84.194 with SMTP id i185mr1400046pfb.234.1493231915717;\r\n        Wed, 26 Apr 2017 11:38:35 -0700 (PDT)"
+      },
+      {
+        "name": "Return-Path",
+        "value": "<weirdquark.bbs@bbs.tmu.edu.tw>"
+      },
+      {
+        "name": "Received",
+        "value": "from mgate.tmu.edu.tw (175-98-102-133.static.tfn.net.tw. [175.98.102.133])\r\n        by mx.google.com with ESMTP id 31si62514pli.149.2017.04.26.11.38.35\r\n        for <chiayao.chen@gmail.com>;\r\n        Wed, 26 Apr 2017 11:38:35 -0700 (PDT)"
+      },
+      {
+        "name": "Received-SPF",
+        "value": "neutral (google.com: 175.98.102.133 is neither permitted nor denied by best guess record for domain of weirdquark.bbs@bbs.tmu.edu.tw) client-ip=175.98.102.133;"
+      },
+      {
+        "name": "Authentication-Results",
+        "value": "mx.google.com;\r\n       spf=neutral (google.com: 175.98.102.133 is neither permitted nor denied by best guess record for domain of weirdquark.bbs@bbs.tmu.edu.tw) smtp.mailfrom=weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "Received",
+        "value": "from bbs.tmu.edu.tw (bbs.tmu.edu.tw [203.71.84.63])\r\n\tby mgate.tmu.edu.tw (8.13.0/8.13.0) with ESMTP id v3QIcZtN009276\r\n\tfor <chiayao.chen@gmail.com>; Thu, 27 Apr 2017 02:38:35 +0800"
+      },
+      {
+        "name": "Received",
+        "value": "from bbs.tmu.edu.tw (localhost.localdomain [127.0.0.1])\r\n\tby bbs.tmu.edu.tw (8.13.8/8.13.8/Debian-3) with ESMTP id v3QIcXxs001496\r\n\tfor <chiayao.chen@gmail.com>; Thu, 27 Apr 2017 02:38:34 +0800"
+      },
+      {
+        "name": "Received",
+        "value": "(from bbs@localhost)\r\n\tby bbs.tmu.edu.tw (8.13.8/8.13.8/Submit) id v3QIcSJJ001495\r\n\tfor chiayao.chen@gmail.com; Thu, 27 Apr 2017 02:38:28 +0800"
+      },
+      {
+        "name": "Date",
+        "value": "Thu, 27 Apr 2017 02:38:28 +0800"
+      },
+      {
+        "name": "From",
+        "value": "weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<201704261838.v3QIcSJJ001495@bbs.tmu.edu.tw>"
+      },
+      {
+        "name": "X-Authentication-Warning",
+        "value": "bbs.tmu.edu.tw: bbs set sender to weirdquark.bbs@bbs.tmu.edu.tw using -f"
+      },
+      {
+        "name": "Reply-To",
+        "value": "weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "To",
+        "value": "chiayao.chen@gmail.com"
+      },
+      {
+        "name": "Subject",
+        "value": "[轉寄] 基服之夜                               Tsuki "
+      },
+      {
+        "name": "X-Forwarded-By",
+        "value": "weirdquark (^+++^)"
+      },
+      {
+        "name": "X-Disclaimer",
+        "value": "杏林綠意 對本信內容恕不負責。"
+      },
+      {
+        "name": "Precedence",
+        "value": "junk"
+      }
+    ],
+    "mime_parts": [
+      {
+        "part_number": 1,
+        "mime_type": "text/plain",
+        "charset": null,
+        "content_transfer_encoding": null,
+        "content_disposition": null,
+        "content_id": null,
+        "filename": null,
+        "size": 770
+      }
+    ]
+  },
+  {
+    "gmail_message_id": "15bab8eea25b4960",
+    "gmail_thread_id": "15bab8eea25b4960",
+    "date": "Thu, 27 Apr 2017 02:38:34 +0800",
+    "date_iso": "2017-04-27T02:38:34+08:00",
+    "date_epoch": 1493231914.0,
+    "from": "weirdquark.bbs@bbs.tmu.edu.tw",
+    "to": [
+      "chiayao.chen@gmail.com"
+    ],
+    "cc": [],
+    "bcc": [],
+    "reply_to": [
+      "weirdquark.bbs@bbs.tmu.edu.tw"
+    ],
+    "subject": "[轉寄] [轉載] 基服之夜..麻煩版主嚕~~          libra ",
+    "message_id_header": "<201704261838.v3QIcYPj001500@bbs.tmu.edu.tw>",
+    "in_reply_to": "",
+    "references": "",
+    "gmail_labels": [
+      "IMPORTANT",
+      "北醫基服/基服公告集/基服公告/基17之前期間公告與大事記/基服之夜",
+      "CATEGORY_PERSONAL"
+    ],
+    "gmail_label_ids": [
+      "IMPORTANT",
+      "Label_65",
+      "CATEGORY_PERSONAL"
+    ],
+    "file": "20170427-023834__gmail-15bab8eea25b4960__[轉寄] [轉載] 基服之夜..麻煩版主嚕~~          libra.eml",
+    "attachments": [],
+    "raw_sha256": "69acc5b9886069bb33e13a1796be3ac3d061b4b38db5173e498e9c9c7f4b65b7",
+    "raw_git_blob_sha": "12772e8ea1e1fa79e3582104c3507e6d83ae839a",
+    "raw_size": 3607,
+    "preservation_format": "original-rfc822-bytes",
+    "headers": [
+      {
+        "name": "Delivered-To",
+        "value": "chiayao.chen@gmail.com"
+      },
+      {
+        "name": "Received",
+        "value": "by 10.107.1.75 with SMTP id 72csp532778iob;\r\n        Wed, 26 Apr 2017 11:38:41 -0700 (PDT)"
+      },
+      {
+        "name": "X-Received",
+        "value": "by 10.99.161.26 with SMTP id b26mr1296048pgf.115.1493231921914;\r\n        Wed, 26 Apr 2017 11:38:41 -0700 (PDT)"
+      },
+      {
+        "name": "Return-Path",
+        "value": "<weirdquark.bbs@bbs.tmu.edu.tw>"
+      },
+      {
+        "name": "Received",
+        "value": "from mgate.tmu.edu.tw (175-98-102-133.static.tfn.net.tw. [175.98.102.133])\r\n        by mx.google.com with ESMTP id m6si57705pln.251.2017.04.26.11.38.41\r\n        for <chiayao.chen@gmail.com>;\r\n        Wed, 26 Apr 2017 11:38:41 -0700 (PDT)"
+      },
+      {
+        "name": "Received-SPF",
+        "value": "neutral (google.com: 175.98.102.133 is neither permitted nor denied by best guess record for domain of weirdquark.bbs@bbs.tmu.edu.tw) client-ip=175.98.102.133;"
+      },
+      {
+        "name": "Authentication-Results",
+        "value": "mx.google.com;\r\n       spf=neutral (google.com: 175.98.102.133 is neither permitted nor denied by best guess record for domain of weirdquark.bbs@bbs.tmu.edu.tw) smtp.mailfrom=weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "Received",
+        "value": "from bbs.tmu.edu.tw (bbs.tmu.edu.tw [203.71.84.63])\r\n\tby mgate.tmu.edu.tw (8.13.0/8.13.0) with ESMTP id v3QIcfbJ009279\r\n\tfor <chiayao.chen@gmail.com>; Thu, 27 Apr 2017 02:38:41 +0800"
+      },
+      {
+        "name": "Received",
+        "value": "from bbs.tmu.edu.tw (localhost.localdomain [127.0.0.1])\r\n\tby bbs.tmu.edu.tw (8.13.8/8.13.8/Debian-3) with ESMTP id v3QIcdCv001501\r\n\tfor <chiayao.chen@gmail.com>; Thu, 27 Apr 2017 02:38:40 +0800"
+      },
+      {
+        "name": "Received",
+        "value": "(from bbs@localhost)\r\n\tby bbs.tmu.edu.tw (8.13.8/8.13.8/Submit) id v3QIcYPj001500\r\n\tfor chiayao.chen@gmail.com; Thu, 27 Apr 2017 02:38:34 +0800"
+      },
+      {
+        "name": "Date",
+        "value": "Thu, 27 Apr 2017 02:38:34 +0800"
+      },
+      {
+        "name": "From",
+        "value": "weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<201704261838.v3QIcYPj001500@bbs.tmu.edu.tw>"
+      },
+      {
+        "name": "X-Authentication-Warning",
+        "value": "bbs.tmu.edu.tw: bbs set sender to weirdquark.bbs@bbs.tmu.edu.tw using -f"
+      },
+      {
+        "name": "Reply-To",
+        "value": "weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "To",
+        "value": "chiayao.chen@gmail.com"
+      },
+      {
+        "name": "Subject",
+        "value": "[轉寄] [轉載] 基服之夜..麻煩版主嚕~~          libra "
+      },
+      {
+        "name": "X-Forwarded-By",
+        "value": "weirdquark (^+++^)"
+      },
+      {
+        "name": "X-Disclaimer",
+        "value": "杏林綠意 對本信內容恕不負責。"
+      },
+      {
+        "name": "Precedence",
+        "value": "junk"
+      }
+    ],
+    "mime_parts": [
+      {
+        "part_number": 1,
+        "mime_type": "text/plain",
+        "charset": null,
+        "content_transfer_encoding": null,
+        "content_disposition": null,
+        "content_id": null,
+        "filename": null,
+        "size": 1622
+      }
+    ]
+  }
+]

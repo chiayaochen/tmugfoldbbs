@@ -1,0 +1,258 @@
+[
+  {
+    "gmail_message_id": "15baf5ce62b3cb4a",
+    "gmail_thread_id": "15baf5ce62b3cb4a",
+    "date": "Thu, 27 Apr 2017 20:22:24 +0800",
+    "date_iso": "2017-04-27T20:22:24+08:00",
+    "date_epoch": 1493295744.0,
+    "from": "weirdquark.bbs@bbs.tmu.edu.tw",
+    "to": [
+      "chiayao.chen@gmail.com"
+    ],
+    "cc": [],
+    "bcc": [],
+    "reply_to": [
+      "weirdquark.bbs@bbs.tmu.edu.tw"
+    ],
+    "subject": "[轉寄] 【公告】基服暨春暉社第二十二屆幹部訓練 tmuGF ",
+    "message_id_header": "<201704271222.v3RCMOUs010264@bbs.tmu.edu.tw>",
+    "in_reply_to": "",
+    "references": "",
+    "gmail_labels": [
+      "北醫基服/基服活動錄/幹部交接/G22",
+      "CATEGORY_PERSONAL"
+    ],
+    "gmail_label_ids": [
+      "Label_90",
+      "CATEGORY_PERSONAL"
+    ],
+    "file": "20170427-202224__gmail-15baf5ce62b3cb4a__[轉寄] 【公告】基服暨春暉社第二十二屆幹部訓練 tmuGF.eml",
+    "attachments": [],
+    "raw_sha256": "be89b30fd8aa0499b9e341c4137f4501cfe13366cc2bcd5bbde16eab61d2abb0",
+    "raw_git_blob_sha": "37980ffc65283ebc465151e151f643f27956d464",
+    "raw_size": 3465,
+    "preservation_format": "original-rfc822-bytes",
+    "headers": [
+      {
+        "name": "Delivered-To",
+        "value": "chiayao.chen@gmail.com"
+      },
+      {
+        "name": "Received",
+        "value": "by 10.107.1.75 with SMTP id 72csp925582iob;\r\n        Thu, 27 Apr 2017 05:22:32 -0700 (PDT)"
+      },
+      {
+        "name": "X-Received",
+        "value": "by 10.98.152.78 with SMTP id q75mr5555939pfd.256.1493295752805;\r\n        Thu, 27 Apr 2017 05:22:32 -0700 (PDT)"
+      },
+      {
+        "name": "Return-Path",
+        "value": "<weirdquark.bbs@bbs.tmu.edu.tw>"
+      },
+      {
+        "name": "Received",
+        "value": "from mgate.tmu.edu.tw (175-98-102-133.static.tfn.net.tw. [175.98.102.133])\r\n        by mx.google.com with ESMTP id o17si1094296pgj.199.2017.04.27.05.22.32\r\n        for <chiayao.chen@gmail.com>;\r\n        Thu, 27 Apr 2017 05:22:32 -0700 (PDT)"
+      },
+      {
+        "name": "Received-SPF",
+        "value": "neutral (google.com: 175.98.102.133 is neither permitted nor denied by best guess record for domain of weirdquark.bbs@bbs.tmu.edu.tw) client-ip=175.98.102.133;"
+      },
+      {
+        "name": "Authentication-Results",
+        "value": "mx.google.com;\r\n       spf=neutral (google.com: 175.98.102.133 is neither permitted nor denied by best guess record for domain of weirdquark.bbs@bbs.tmu.edu.tw) smtp.mailfrom=weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "Received",
+        "value": "from bbs.tmu.edu.tw (bbs.tmu.edu.tw [203.71.84.63])\r\n\tby mgate.tmu.edu.tw (8.13.0/8.13.0) with ESMTP id v3RCMWeC007266\r\n\tfor <chiayao.chen@gmail.com>; Thu, 27 Apr 2017 20:22:32 +0800"
+      },
+      {
+        "name": "Received",
+        "value": "from bbs.tmu.edu.tw (localhost.localdomain [127.0.0.1])\r\n\tby bbs.tmu.edu.tw (8.13.8/8.13.8/Debian-3) with ESMTP id v3RCMTnW010265\r\n\tfor <chiayao.chen@gmail.com>; Thu, 27 Apr 2017 20:22:30 +0800"
+      },
+      {
+        "name": "Received",
+        "value": "(from bbs@localhost)\r\n\tby bbs.tmu.edu.tw (8.13.8/8.13.8/Submit) id v3RCMOUs010264\r\n\tfor chiayao.chen@gmail.com; Thu, 27 Apr 2017 20:22:24 +0800"
+      },
+      {
+        "name": "Date",
+        "value": "Thu, 27 Apr 2017 20:22:24 +0800"
+      },
+      {
+        "name": "From",
+        "value": "weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<201704271222.v3RCMOUs010264@bbs.tmu.edu.tw>"
+      },
+      {
+        "name": "X-Authentication-Warning",
+        "value": "bbs.tmu.edu.tw: bbs set sender to weirdquark.bbs@bbs.tmu.edu.tw using -f"
+      },
+      {
+        "name": "Reply-To",
+        "value": "weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "To",
+        "value": "chiayao.chen@gmail.com"
+      },
+      {
+        "name": "Subject",
+        "value": "[轉寄] 【公告】基服暨春暉社第二十二屆幹部訓練 tmuGF "
+      },
+      {
+        "name": "X-Forwarded-By",
+        "value": "weirdquark (^+++^)"
+      },
+      {
+        "name": "X-Disclaimer",
+        "value": "杏林綠意 對本信內容恕不負責。"
+      },
+      {
+        "name": "Precedence",
+        "value": "junk"
+      }
+    ],
+    "mime_parts": [
+      {
+        "part_number": 1,
+        "mime_type": "text/plain",
+        "charset": null,
+        "content_transfer_encoding": null,
+        "content_disposition": null,
+        "content_id": null,
+        "filename": null,
+        "size": 1477
+      }
+    ]
+  },
+  {
+    "gmail_message_id": "15baf5cfe10c57e5",
+    "gmail_thread_id": "15baf5cfe10c57e5",
+    "date": "Thu, 27 Apr 2017 20:22:30 +0800",
+    "date_iso": "2017-04-27T20:22:30+08:00",
+    "date_epoch": 1493295750.0,
+    "from": "weirdquark.bbs@bbs.tmu.edu.tw",
+    "to": [
+      "chiayao.chen@gmail.com"
+    ],
+    "cc": [],
+    "bcc": [],
+    "reply_to": [
+      "weirdquark.bbs@bbs.tmu.edu.tw"
+    ],
+    "subject": "[轉寄] 【公告】基服第二十二屆幹部訓練成長營邀 tmuGF ",
+    "message_id_header": "<201704271222.v3RCMU6Q010269@bbs.tmu.edu.tw>",
+    "in_reply_to": "",
+    "references": "",
+    "gmail_labels": [
+      "北醫基服/基服活動錄/幹部交接/G22",
+      "CATEGORY_PERSONAL"
+    ],
+    "gmail_label_ids": [
+      "Label_90",
+      "CATEGORY_PERSONAL"
+    ],
+    "file": "20170427-202230__gmail-15baf5cfe10c57e5__[轉寄] 【公告】基服第二十二屆幹部訓練成長營邀 tmuGF.eml",
+    "attachments": [],
+    "raw_sha256": "65355bfad529fe604182e2a953817516609d3a0873e84debe1dfa7c57107279e",
+    "raw_git_blob_sha": "9423854f17f95f35f30b419b9b245482e7fe95ba",
+    "raw_size": 3164,
+    "preservation_format": "original-rfc822-bytes",
+    "headers": [
+      {
+        "name": "Delivered-To",
+        "value": "chiayao.chen@gmail.com"
+      },
+      {
+        "name": "Received",
+        "value": "by 10.107.1.75 with SMTP id 72csp925637iob;\r\n        Thu, 27 Apr 2017 05:22:39 -0700 (PDT)"
+      },
+      {
+        "name": "X-Received",
+        "value": "by 10.84.196.100 with SMTP id k91mr7013300pld.165.1493295758968;\r\n        Thu, 27 Apr 2017 05:22:38 -0700 (PDT)"
+      },
+      {
+        "name": "Return-Path",
+        "value": "<weirdquark.bbs@bbs.tmu.edu.tw>"
+      },
+      {
+        "name": "Received",
+        "value": "from mgate.tmu.edu.tw (175-98-102-133.static.tfn.net.tw. [175.98.102.133])\r\n        by mx.google.com with ESMTP id l4si2451691plb.153.2017.04.27.05.22.38\r\n        for <chiayao.chen@gmail.com>;\r\n        Thu, 27 Apr 2017 05:22:38 -0700 (PDT)"
+      },
+      {
+        "name": "Received-SPF",
+        "value": "neutral (google.com: 175.98.102.133 is neither permitted nor denied by best guess record for domain of weirdquark.bbs@bbs.tmu.edu.tw) client-ip=175.98.102.133;"
+      },
+      {
+        "name": "Authentication-Results",
+        "value": "mx.google.com;\r\n       spf=neutral (google.com: 175.98.102.133 is neither permitted nor denied by best guess record for domain of weirdquark.bbs@bbs.tmu.edu.tw) smtp.mailfrom=weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "Received",
+        "value": "from bbs.tmu.edu.tw (bbs.tmu.edu.tw [203.71.84.63])\r\n\tby mgate.tmu.edu.tw (8.13.0/8.13.0) with ESMTP id v3RCMc6H007269\r\n\tfor <chiayao.chen@gmail.com>; Thu, 27 Apr 2017 20:22:38 +0800"
+      },
+      {
+        "name": "Received",
+        "value": "from bbs.tmu.edu.tw (localhost.localdomain [127.0.0.1])\r\n\tby bbs.tmu.edu.tw (8.13.8/8.13.8/Debian-3) with ESMTP id v3RCMZFh010270\r\n\tfor <chiayao.chen@gmail.com>; Thu, 27 Apr 2017 20:22:36 +0800"
+      },
+      {
+        "name": "Received",
+        "value": "(from bbs@localhost)\r\n\tby bbs.tmu.edu.tw (8.13.8/8.13.8/Submit) id v3RCMU6Q010269\r\n\tfor chiayao.chen@gmail.com; Thu, 27 Apr 2017 20:22:30 +0800"
+      },
+      {
+        "name": "Date",
+        "value": "Thu, 27 Apr 2017 20:22:30 +0800"
+      },
+      {
+        "name": "From",
+        "value": "weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<201704271222.v3RCMU6Q010269@bbs.tmu.edu.tw>"
+      },
+      {
+        "name": "X-Authentication-Warning",
+        "value": "bbs.tmu.edu.tw: bbs set sender to weirdquark.bbs@bbs.tmu.edu.tw using -f"
+      },
+      {
+        "name": "Reply-To",
+        "value": "weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "To",
+        "value": "chiayao.chen@gmail.com"
+      },
+      {
+        "name": "Subject",
+        "value": "[轉寄] 【公告】基服第二十二屆幹部訓練成長營邀 tmuGF "
+      },
+      {
+        "name": "X-Forwarded-By",
+        "value": "weirdquark (^+++^)"
+      },
+      {
+        "name": "X-Disclaimer",
+        "value": "杏林綠意 對本信內容恕不負責。"
+      },
+      {
+        "name": "Precedence",
+        "value": "junk"
+      }
+    ],
+    "mime_parts": [
+      {
+        "part_number": 1,
+        "mime_type": "text/plain",
+        "charset": null,
+        "content_transfer_encoding": null,
+        "content_disposition": null,
+        "content_id": null,
+        "filename": null,
+        "size": 1176
+      }
+    ]
+  }
+]
