@@ -1,0 +1,692 @@
+µo«H¤H: olivine (freestyle), «H°Ï: basic_serve
+¼Ð  ÃD: [°òªA¤§©]]¤Q¤ë¤T¤Q °ò´c¤T¤Q §Y±N¤ÞÃz¡I
+µo«H¯¸: §öªLºñ·N (Mon Oct 16 02:17:28 2006), Âà«H
+
+[0m
+[0m[30m        [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37m     [30;47m¢@¢@¢@[0m
+[0m[30m      [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i   [30m     [47m¢@¢@[41m¢@[0m
+[0m[31m     [41m [40m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[41m [30;40m [31m 
+[0m[31m    [41m [40m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[41m [40m       
+[0m[31m   ¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[41m¢n[0;31m¢i¢i[37m     [1m [0;30m [37m  
+[0m   [31m¢i¢i[1m¢i¢i[41m¢©  [40m¢i¢i[0;31;41m¢i [1m¢i[0;31;41m [1m¢i[0;31m¢i¢i[1m¢i¢i[41m¢©[0;31m¢i¢i         
+[0m   [31m¢i¢i[1m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i[0;31m¢i[1m¢i[0;31m¢i¢i            
+[0m   [31m¢i¢i[1m¢i¢i[41m¢« [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i¢i[41m¢«[0;31m¢i¢i
+[0m[33m   [31m¢i¢i[1m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i[0;31m¢i[1m¢i[0;31m¢i¢i
+[0m    [41m [31;40m¢i[1m¢i¢i¢i[0;31;41m  [40;1m¢i¢i[0;31;41m  [40;1m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i¢i¢i[0;31;41m¢i 
+[0m    [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[30m 
+[0m[33m     [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m   [30m  [33m [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m      
+[0m[30m        [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m 
+[0m[33m  [30m¡´¢A   ¡´[31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m 
+[0m[33m  [30m¢A     ¢@ [41m¢h¢g¢f¢e¢d¢d¢e¢f¢g¢h[40m   
+[0m
+[0m[1m  
+[0m[1m 
+[0m                [31m¢e¢f¢g¢g¢g¢f[37m       
+[0m            [31m¢g¢i¢i¢i¢i¢i¢i¢i¢i¢g[37m     [30;47m¢@¢@
+[0m          [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[30;47m¢@¢@[40m  [47m¢@[40m    
+[0m[30m        [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37m     [30;47m¢@¢@¢@[40m  
+[0m[30m      [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i   [30m     [47m¢@¢@[41m¢@
+[0m[31m     [41m [40m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[41m [30;40m [31m 
+[0m[31m    [41m [40m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[41m [40m       
+[0m[31m   ¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[41m¢n[0;31m¢i¢i[37m     [1m [0;30m [37m  
+[0m   [31m¢i¢i[1m¢i¢i[41m¢©  [40m¢i¢i[0;31;41m¢i [1m¢i[0;31;41m [1m¢i[0;31m¢i¢i[1m¢i¢i[41m¢©[0;31m¢i¢i         
+[0m   [31m¢i¢i[1m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i[0;31m¢i[1m¢i[0;31m¢i¢i            
+[0m   [31m¢i¢i[1m¢i¢i[41m¢« [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i¢i[41m¢«[0;31m¢i¢i
+[0m[33m   [31m¢i¢i[1m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i[0;31m¢i[1m¢i[0;31m¢i¢i
+[0m    [41m [31;40m¢i[1m¢i¢i¢i[0;31;41m  [40;1m¢i¢i[0;31;41m  [40;1m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i¢i¢i[0;31;41m¢i 
+[0m    [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[30m 
+[0m[33m     [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m   [30m  [33m [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m      
+[0m[30m        [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m 
+[0m[33m  [30m¡´¢A   ¡´[31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m 
+[0m[33m  [30m¢A     ¢@ [41m¢h¢g¢f¢e¢d¢d¢e¢f¢g¢h[40m   
+[0m
+[0m[1m  [0;30m¢w 
+[0m      
+[0m                [31m¢e¢f¢g¢g¢g¢f[37m       
+[0m            [31m¢g¢i¢i¢i¢i¢i¢i¢i¢i¢g[37m     [30;47m¢@¢@[40m            [37;1m£a
+[0m          [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[30;47m¢@¢@[40m  [47m¢@[40m      [33;1m¢B[0;30m  [37;1m£n[0;30m [33;1m¡þ
+[0m[30m        [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37m     [30;47m¢@¢@¢@[40m      [33;1m¡þ
+[0m[30m      [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i   [30m     [47m¢@¢@[31;40;1m¢i
+[0m[31m     [41m [40m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[41m [30;40m [31m             [33;1m¢­
+[0m[31m    [41m [40m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[41m [40m            [33;1m¢B[0;31m [33;1m¢­
+[0m[31m   ¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[41m¢n[0;31m¢i¢i[37m     [1m [0;30m [37m       
+[0m   [31m¢i¢i[1m¢i¢i[41m¢©  [40m¢i¢i[0;31;41m¢i [1m¢i[0;31;41m [1m¢i[0;31m¢i¢i[1m¢i¢i[41m¢©[0;31m¢i¢i         
+[0m   [31m¢i¢i[1m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i[0;31m¢i[1m¢i[0;31m¢i¢i            
+[0m   [31m¢i¢i[1m¢i¢i[41m¢« [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i¢i[41m¢«[0;31m¢i¢i
+[0m[33m   [31m¢i¢i[1m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i[0;31m¢i[1m¢i[0;31m¢i¢i
+[0m    [41m [31;40m¢i[1m¢i¢i¢i[0;31;41m  [40;1m¢i¢i[0;31;41m  [40;1m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i¢i¢i[0;31;41m¢i 
+[0m    [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[30m 
+[0m[33m     [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m   [30m  [33m [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m      
+[0m[30m        [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m 
+[0m[33m  [30m¡´¢A   ¡´[31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m 
+[0m[33m  [30m¢A     ¢@ [41m¢h¢g¢f¢e¢d¢d¢e¢f¢g¢h[40m   
+[0m
+[0m
+[0m
+[0m                [31m¢e¢f¢g¢g¢g¢f[37m                         [1m£n
+[0m            [31m¢g¢i¢i¢i¢i¢i¢i¢i¢i¢g[37m     [30;47m¢@¢@[40m    [33;1m¢B[0;30m    [37;1m£a  [33m¡þ
+[0m          [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[30;47m¢@¢@[40m  [47m¢@[40m    [33;1m  [0;30m  [37;1m  [0;30m [33;1m¡þ
+[0m[30m        [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37m     [30;47m¢@¢@¢@[40m    [33;1m¡þ
+[0m[30m      [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i   [30m     [47m¢@[31;40;1m¢i
+[0m[31m     [41m [40m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[41m [30;40m [31m           [33;1m¢­
+[0m[31m    [41m [40m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[41m [40m          [33;1m¢B[0;31m [33;1m¢­
+[0m[31m   ¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[41m¢n[0;31m¢i¢i[37m     [1m [0;30m [37m       [33;1m¢­[0m 
+[0m   [31m¢i¢i[1m¢i¢i[41m¢©  [40m¢i¢i[0;31;41m¢i [1m¢i[0;31;41m [1m¢i[0;31m¢i¢i[1m¢i¢i[41m¢©[0;31m¢i¢i         
+[0m   [31m¢i¢i[1m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i[0;31m¢i[1m¢i[0;31m¢i¢i            
+[0m   [31m¢i¢i[1m¢i¢i[41m¢« [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i¢i[41m¢«[0;31m¢i¢i
+[0m[33m   [31m¢i¢i[1m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i[0;31m¢i[1m¢i[0;31m¢i¢i
+[0m    [41m [31;40m¢i[1m¢i¢i¢i[0;31;41m  [40;1m¢i¢i[0;31;41m  [40;1m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i¢i¢i[0;31;41m¢i 
+[0m    [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[30m 
+[0m[33m     [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m   [30m  [33m [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m      
+[0m[30m        [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m 
+[0m[33m  [30m¡´¢A   ¡´[31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m 
+[0m[33m  [30m¢A     ¢@ [41m¢h¢g¢f¢e¢d¢d¢e¢f¢g¢h[40m   
+[0m
+[0m
+[0m 
+[0m                [31m¢e¢f¢g¢g¢g¢f[37m                       [1m£a
+[0m            [31m¢g¢i¢i¢i¢i¢i¢i¢i¢i¢g[37m     [30;47m¢@¢@[40m  [33;1m¢B[0;30m    [37;1m£a  [33m 
+[0m          [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[30;47m¢@¢@[40m  [47m¢@[40m  [33;1m¢B. [0;30m [37;1m [0;30m [33;1m¡þ
+[0m[30m        [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37m     [30;47m¢@¢@¢@[40m  [33;1m¡þ
+[0m[30m      [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i   [30m     [31;1m¢i[33m.
+[0m[31m     [41m [40m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[41m [30;40m [31m     [33;1m.[0;31m   [33;1m¢­
+[0m[31m    [41m [40m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[41m [40m        [33;1m¢B[0;31m [33;1m¢­
+[0m[31m   ¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[41m¢n[0;31m¢i¢i[37m     [1m [0;30m [37m     [33;1m¢­[0m 
+[0m   [31m¢i¢i[1m¢i¢i[41m¢©  [40m¢i¢i[0;31;41m¢i [1m¢i[0;31;41m [1m¢i[0;31m¢i¢i[1m¢i¢i[41m¢©[0;31m¢i¢i         
+[0m   [31m¢i¢i[1m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i[0;31m¢i[1m¢i[0;31m¢i¢i            
+[0m   [31m¢i¢i[1m¢i¢i[41m¢« [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i¢i[41m¢«[0;31m¢i¢i
+[0m[33m   [31m¢i¢i[1m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i[0;31m¢i[1m¢i[0;31m¢i¢i
+[0m    [41m [31;40m¢i[1m¢i¢i¢i[0;31;41m  [40;1m¢i¢i[0;31;41m  [40;1m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i¢i¢i[0;31;41m¢i 
+[0m    [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[30m 
+[0m[33m     [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m   [30m  [33m [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m      
+[0m[30m        [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m 
+[0m[33m  [30m¡´¢A   ¡´[31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m 
+[0m[33m  [30m¢A     ¢@ [41m¢h¢g¢f¢e¢d¢d¢e¢f¢g¢h[40m   
+[0m
+[0m
+[0m 
+[0m                [31m¢e¢f¢g¢g¢g¢f[37m              .  [1m£a[0m [33;1m¡þ[0m 
+[0m            [31m¢g¢i¢i¢i¢i¢i¢i¢i¢i¢g[37m     [30;47m¢@¢@[40m   [37;1m£a[33m¡þ[37m  [33m 
+[0m          [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[30;47m¢@¢@[40m  [47m¢@[40m  [33;1m . [0;30m [37;1m [33m¡¹
+[0m[30m        [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37m     [30;47m¢@[31;40;1m¢i[0;30m    
+[0m[30m      [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i   [33;1m.[0;30m    [33;1m¢­  .
+[0m[31m     [41m [40m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[41m [30;40m [31m     [33;1m.[0;31m  [33;1m¢­
+[0m[31m    [41m [40m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[41m [40m     [33;1m¢B   ¢­
+[0m[31m   ¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[41m¢n[0;31m¢i¢i[37m     [1m [0;30m [37m     
+[0m   [31m¢i¢i[1m¢i¢i[41m¢©  [40m¢i¢i[0;31;41m¢i [1m¢i[0;31;41m [1m¢i[0;31m¢i¢i[1m¢i¢i[41m¢©[0;31m¢i¢i         
+[0m   [31m¢i¢i[1m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i[0;31m¢i[1m¢i[0;31m¢i¢i            
+[0m   [31m¢i¢i[1m¢i¢i[41m¢« [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i¢i[41m¢«[0;31m¢i¢i
+[0m[33m   [31m¢i¢i[1m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i[0;31m¢i[1m¢i[0;31m¢i¢i
+[0m    [41m [31;40m¢i[1m¢i¢i¢i[0;31;41m  [40;1m¢i¢i[0;31;41m  [40;1m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i¢i¢i[0;31;41m¢i 
+[0m    [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[30m 
+[0m[33m     [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m   [30m  [33m [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m      
+[0m[30m        [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m 
+[0m[33m  [30m¡´¢A   ¡´[31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m 
+[0m[33m  [30m¢A     ¢@ [41m¢h¢g¢f¢e¢d¢d¢e¢f¢g¢h[40m   
+[0m
+[0m
+[0m                                            [1m£a
+[0m                [31m¢e¢f¢g¢g¢g¢f[37m              .[1m£a[0m [33;1m¡þ[0m 
+[0m            [31m¢g¢i¢i¢i¢i¢i¢i¢i¢i¢g[37m     [30;47m¢@¢@[40m   [33;1m¡þ[37m  [33m 
+[0m          [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[30;47m¢@¢@[40m  [31;1m¢i[0;30m  [33;1m . [0;30m [37;1m 
+[0m[30m        [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37m   [33;1m¢A[0;30m [33;1m¢­
+[0m[30m      [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[33;1m¢A[0;31m [33;1m.[0;30m  [33;1m¢­  .
+[0m[31m     [41m [40m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[41m [30;40m [31m       
+[0m[31m    [41m [40m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[41m [40m     [33;1m   
+[0m[31m   ¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[41m¢n[0;31m¢i¢i[37m     [1m [0;30m [37m     
+[0m   [31m¢i¢i[1m¢i¢i[41m¢©  [40m¢i¢i[0;31;41m¢i [1m¢i[0;31;41m [1m¢i[0;31m¢i¢i[1m¢i¢i[41m¢©[0;31m¢i¢i         
+[0m   [31m¢i¢i[1m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i[0;31m¢i[1m¢i[0;31m¢i¢i            
+[0m   [31m¢i¢i[1m¢i¢i[41m¢« [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i¢i[41m¢«[0;31m¢i¢i
+[0m[33m   [31m¢i¢i[1m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i[0;31m¢i[1m¢i[0;31m¢i¢i
+[0m    [41m [31;40m¢i[1m¢i¢i¢i[0;31;41m  [40;1m¢i¢i[0;31;41m  [40;1m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i¢i¢i[0;31;41m¢i 
+[0m    [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[30m 
+[0m[33m     [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m   [30m  [33m [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m      
+[0m[30m        [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m 
+[0m[33m  [30m¡´¢A   ¡´[31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m 
+[0m[33m  [30m¢A     ¢@ [41m¢h¢g¢f¢e¢d¢d¢e¢f¢g¢h[40m   
+[0m
+[0m
+[0m                               . [33;1m ¢B[0m  . [33;1m¡þ[37m£a
+[0m                [31m¢e¢f¢g¢g¢g¢f[37m      [33;1m.¢B[0m   .[1m£a[0m  
+[0m            [31m¢g¢i¢i¢i¢i¢i¢i¢i¢i¢g[37m     [31;1m¢i[0;30m   [37;1m  [33m 
+[0m          [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[30;47m¢@¢@[40m  [33;1m¢­[0;30m [33;1m . [0;30m [37;1m 
+[0m[30m        [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37m   [33;1m  [0;30m [33;1m¢­
+[0m[30m      [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[33;1m [0;31m [33;1m.[0;30m  [33;1m  .
+[0m[31m     [41m [40m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[41m [30;40m [31m       [33;1m.
+[0m[31m    [41m [40m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[41m [40m     [33;1m   
+[0m[31m   ¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[41m¢n[0;31m¢i¢i[37m     [1m [0;30m [37m     
+[0m   [31m¢i¢i[1m¢i¢i[41m¢©  [40m¢i¢i[0;31;41m¢i [1m¢i[0;31;41m [1m¢i[0;31m¢i¢i[1m¢i¢i[41m¢©[0;31m¢i¢i         
+[0m   [31m¢i¢i[1m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i[0;31m¢i[1m¢i[0;31m¢i¢i            
+[0m   [31m¢i¢i[1m¢i¢i[41m¢« [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i¢i[41m¢«[0;31m¢i¢i
+[0m[33m   [31m¢i¢i[1m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i[0;31m¢i[1m¢i[0;31m¢i¢i
+[0m    [41m [31;40m¢i[1m¢i¢i¢i[0;31;41m  [40;1m¢i¢i[0;31;41m  [40;1m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i¢i¢i[0;31;41m¢i 
+[0m    [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[30m 
+[0m[33m     [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m   [30m  [33m [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m      
+[0m[30m        [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m 
+[0m[33m  [30m¡´¢A   ¡´[31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m 
+[0m[33m  [30m¢A     ¢@ [41m¢h¢g¢f¢e¢d¢d¢e¢f¢g¢h[40m   
+[0m
+[0m
+[0m                               . [33;1m ¢B[0m  .   
+[0m                [31m¢e¢f¢g¢g¢g¢f[37m      [33;1m.¢B[0m    [33;1m¡þ[0m.  
+[0m            [31m¢g¢i¢i¢i¢i¢i¢i¢i¢i¢g[37m    [1m   [33m¡þ
+[0m          [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[30;47m¢@[31;40;1m¢i[33m [0;30m [33;1m. [0;30m [37;1m.
+[0m[30m        [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37m   [33;1m¢­
+[0m[30m      [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[33;1m [0;31m [30m [33;1m¢­ .
+[0m[31m     [41m [40m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[41m [30;40m [31m        
+[0m[31m    [41m [40m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[41m [40m     [33;1m   
+[0m[31m   ¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[41m¢n[0;31m¢i¢i[37m     [1m [0;30m [37m     
+[0m   [31m¢i¢i[1m¢i¢i[41m¢©  [40m¢i¢i[0;31;41m¢i [1m¢i[0;31;41m [1m¢i[0;31m¢i¢i[1m¢i¢i[41m¢©[0;31m¢i¢i         
+[0m   [31m¢i¢i[1m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i[0;31m¢i[1m¢i[0;31m¢i¢i            
+[0m   [31m¢i¢i[1m¢i¢i[41m¢« [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i¢i[41m¢«[0;31m¢i¢i
+[0m[33m   [31m¢i¢i[1m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i[0;31m¢i[1m¢i[0;31m¢i¢i
+[0m    [41m [31;40m¢i[1m¢i¢i¢i[0;31;41m  [40;1m¢i¢i[0;31;41m  [40;1m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i¢i¢i[0;31;41m¢i 
+[0m    [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[30m 
+[0m[33m     [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m   [30m  [33m [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m      
+[0m[30m        [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m 
+[0m[33m  [30m¡´¢A   ¡´[31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m 
+[0m[33m  [30m¢A     ¢@ [41m¢h¢g¢f¢e¢d¢d¢e¢f¢g¢h[40m   
+[0m
+[0m
+[0m                               . [33;1m ¢B[0m  . [33;1m¡þ
+[0m                [31m¢e¢f¢g¢g¢g¢f[37m      [33;1m.¢B[0m [33;1m¡þ[0m.  
+[0m            [31m¢g¢i¢i¢i¢i¢i¢i¢i¢i¢g[37m    [33;1m [0;30m [37;1m  [33m 
+[0m          [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[1m¢i[0;30m  [33;1m¢­[0;30m [33;1m. [0;30m [37;1m 
+[0m[30m        [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37m   [33;1m ¢­
+[0m[30m      [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[33;1m [0;31m [33;1m.[0;30m  [33;1m  .
+[0m[31m     [41m [40m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[41m [30;40m [31m       [33;1m.
+[0m[31m    [41m [40m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[41m [40m     [33;1m   
+[0m[31m   ¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[41m¢n[0;31m¢i¢i[37m     [1m [0;30m [37m     
+[0m   [31m¢i¢i[1m¢i¢i[41m¢©  [40m¢i¢i[0;31;41m¢i [1m¢i[0;31;41m [1m¢i[0;31m¢i¢i[1m¢i¢i[41m¢©[0;31m¢i¢i         
+[0m   [31m¢i¢i[1m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i[0;31m¢i[1m¢i[0;31m¢i¢i            
+[0m   [31m¢i¢i[1m¢i¢i[41m¢« [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i¢i[41m¢«[0;31m¢i¢i
+[0m[33m   [31m¢i¢i[1m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i[0;31m¢i[1m¢i[0;31m¢i¢i
+[0m    [41m [31;40m¢i[1m¢i¢i¢i[0;31;41m  [40;1m¢i¢i[0;31;41m  [40;1m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i¢i¢i[0;31;41m¢i 
+[0m    [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[30m 
+[0m[33m     [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m   [30m  [33m [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m      
+[0m[30m        [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m 
+[0m[33m  [30m¡´¢A   ¡´[31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m 
+[0m[33m  [30m¢A     ¢@ [41m¢h¢g¢f¢e¢d¢d¢e¢f¢g¢h[40m   
+[0m
+[0m
+[0m                               . [33;1m  [0m  . [33;1m 
+[0m                [31m¢e¢f¢g¢g¢g¢f[37m      [33;1m ¢B[0m [33;1m¡þ[0m.  
+[0m            [31m¢g¢i¢i¢i¢i¢i¢i¢i¢i¢g[37m    [33;1m [0;30m [37;1m  [33m 
+[0m          [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[1m  [0;30m  [33;1m¢­[0;30m [33;1m. [0;30m [37;1m 
+[0m[30m        [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37m   [33;1m  
+[0m[30m      [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[33;1m [0;31m  [30m  [33;1m   
+[0m[31m     [41m [40m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[41m [30;40m [31m        
+[0m[31m    [41m [40m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[41m [40m     [33;1m   
+[0m[31m   ¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[41m¢n[0;31m¢i¢i[37m     [1m [0;30m [37m     
+[0m   [31m¢i¢i[1m¢i¢i[41m¢©  [40m¢i¢i[0;31;41m¢i [1m¢i[0;31;41m [1m¢i[0;31m¢i¢i[1m¢i¢i[41m¢©[0;31m¢i¢i         
+[0m   [31m¢i¢i[1m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i[0;31m¢i[1m¢i[0;31m¢i¢i            
+[0m   [31m¢i¢i[1m¢i¢i[41m¢« [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i¢i[41m¢«[0;31m¢i¢i
+[0m[33m   [31m¢i¢i[1m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i[0;31m¢i[1m¢i[0;31m¢i¢i
+[0m    [41m [31;40m¢i[1m¢i¢i¢i[0;31;41m  [40;1m¢i¢i[0;31;41m  [40;1m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i¢i¢i[0;31;41m¢i 
+[0m    [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[30m 
+[0m[33m     [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m   [30m  [33m [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m      
+[0m[30m        [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m 
+[0m[33m  [30m¡´¢A   ¡´[31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m 
+[0m[33m  [30m¢A     ¢@ [41m¢h¢g¢f¢e¢d¢d¢e¢f¢g¢h[40m   
+[0m
+[0m
+[0m                                 [33;1m 
+[0m                [31m¢e¢f¢g¢g¢g¢f[37m      [33;1m [0m   
+[0m            [31m¢g¢i¢i¢i¢i¢i¢i¢i¢i¢g[37m    [33;1m [0;30m [37;1m  [33m 
+[0m          [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[1m  [33m [0;30m [37;1m 
+[0m[30m        [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37m   [33;1m  
+[0m[30m      [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[33;1m [0;31m  [30m  [33;1m   
+[0m[31m     [41m [40m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[41m [30;40m [31m        
+[0m[31m    [41m [40m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[41m [40m     [33;1m   
+[0m[31m   ¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[41m¢n[0;31m¢i¢i[37m     [1m [0;30m [37m     
+[0m   [31m¢i¢i[1m¢i¢i[41m¢©  [40m¢i¢i[0;31;41m¢i [1m¢i[0;31;41m [1m¢i[0;31m¢i¢i[1m¢i¢i[41m¢©[0;31m¢i¢i         
+[0m   [31m¢i¢i[1m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i[0;31m¢i[1m¢i[0;31m¢i¢i            
+[0m   [31m¢i¢i[1m¢i¢i[41m¢« [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i¢i[41m¢«[0;31m¢i¢i
+[0m[33m   [31m¢i¢i[1m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i[0;31m¢i[1m¢i[0;31m¢i¢i
+[0m    [41m [31;40m¢i[1m¢i¢i¢i[0;31;41m  [40;1m¢i¢i[0;31;41m  [40;1m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i¢i¢i[0;31;41m¢i 
+[0m    [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[30m 
+[0m[33m     [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m   [30m  [33m [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m      
+[0m[30m        [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m 
+[0m[33m  [30m¡´¢A   ¡´[31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m 
+[0m[33m  [30m¢A     ¢@ [41m¢h¢g¢f¢e¢d¢d¢e¢f¢g¢h[40m   
+[0m
+[0m
+[0m                                 [33;1m 
+[0m                [31m¢e¢f¢g¢g¢g¢f[37m      [33;1m [0m   
+[0m            [31m¢g¢i¢i¢i¢i¢i¢i¢i¢i¢g[37m    [33;1m [0;30m [37;1m  [33m 
+[0m          [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[1m [0;30m [33;1m [0;30m [37;1m 
+[0m[30m        [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37m   [33;1m  
+[0m[30m      [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[33;1m [0;31m  [30m  [33;1m   
+[0m[31m     [41m [40m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[41m [30;40m [31m        
+[0m[31m    [41m [40m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[0;31m¢i¢i[41m [40m     [33;1m   
+[0m[31m   ¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[37;1m¢i[41m¢n[0;31m¢i¢i[37m     [1m [0;30m [37m     
+[0m   [31m¢i¢i[1m¢i¢i[41m¢©  [40m¢i¢i[0;31;41m¢i [1m¢i[0;31;41m [1m¢i[0;31m¢i¢i[1m¢i¢i[41m¢©[0;31m¢i¢i         
+[0m   [31m¢i¢i[1m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i[0;31m¢i[1m¢i[0;31m¢i¢i            
+[0m   [31m¢i¢i[1m¢i¢i[41m¢« [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i¢i[41m¢«[0;31m¢i¢i
+[0m[33m   [31m¢i¢i[1m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31m¢i[1m¢i[41m [40m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i[0;31m¢i[1m¢i[0;31m¢i¢i
+[0m    [41m [31;40m¢i[1m¢i¢i¢i[0;31;41m  [40;1m¢i¢i[0;31;41m  [40;1m¢i[0;31;41m [1m¢i[0;31;41m [40;1m¢i[0;31m¢i[1m¢i¢i¢i[0;31;41m¢i 
+[0m    [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[30m 
+[0m[33m     [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m   [30m  [33m [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m      
+[0m[30m        [31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m 
+[0m[33m  [30m¡´¢A   ¡´[31m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i[33m 
+[0m[33m  [30m¢A     ¢@ [41m¢h¢g¢f¢e¢d¢d¢e¢f¢g¢h[40m   
+[0m
+[0m
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m[33;1m¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i¢i
+[0m
+[0m[33;1m 
+[0m[33;1m 
+[0m
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m                          [30m  ¡Ý W A R N I N G ¡Ý
+[0m
+[0m
+[0m
+[0m
+[0m
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m
+[0m
+[0m
+[0m[33;1m 
+[0m[33;1m 
+[0m
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m                            [0;31m¡Ý W A R N I N G ¡Ý
+[0m
+[0m
+[0m
+[0m
+[0m
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m
+[0m
+[0m
+[0m[33;1m 
+[0m[33;1m 
+[0m
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m                            [31m¡Ý W A R N I N G ¡Ý
+[0m
+[0m
+[0m
+[0m
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m
+[0m
+[0m
+[0m
+[0m[33;1m 
+[0m[33;1m 
+[0m
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m                            [0;31m¡Ý W A R N I N G ¡Ý
+[0m
+[0m
+[0m
+[0m
+[0m
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m
+[0m
+[0m[1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m                            [31m¡Ý W A R N I N G ¡Ý
+[0m
+[0m
+[0m
+[0m
+[0m
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m
+[0m
+[0m[1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m                            [0;31m¡Ý W A R N I N G ¡Ý
+[0m
+[0m
+[0m
+[0m
+[0m
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m
+[0m
+[0m[1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m                            [31m¡Ý W A R N I N G ¡Ý
+[0m
+[0m
+[0m
+[0m
+[0m
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m
+[0m
+[0m[1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m                            [31m¡Ý W A R N I N G ¡Ý
+[0m
+[0m[1m 
+[0m[1m                                   
+[0m[1m                       [30m¤Q¤ë¤T¤Q   ±ß¤W¤»ÂI  °òªA¤§©]
+[0m[1m 
+[0m[33;1m                                 
+[0m[33;1m                             
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m
+[0m
+[0m[1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m                            [31m¡Ý W A R N I N G ¡Ý
+[0m
+[0m[1m 
+[0m[1m                                   
+[0m[1m                       [0;33m¤Q¤ë¤T¤Q   ±ß¤W¤»ÂI  °òªA¤§©]
+[0m[1m 
+[0m[33;1m                                 
+[0m[33;1m                              [30m§ö¬K¼Ó  §Y±N¤ÞÃz
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m
+[0m
+[0m[1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m                            [31m¡Ý W A R N I N G ¡Ý
+[0m
+[0m[1m 
+[0m[1m                                   
+[0m[1m                      [33m ¤Q¤ë¤T¤Q   ±ß¤W¤»ÂI  °òªA¤§©]
+[0m[1m 
+[0m[33;1m                                 
+[0m[33;1m                             [0;33m §ö¬K¼Ó  §Y±N¤ÞÃz
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m
+[0m
+[0m[1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m                            [31m¡Ý W A R N I N G ¡Ý
+[0m
+[0m[1m 
+[0m[1m                                   
+[0m[1m                     [33m  ¤Q¤ë¤T¤Q   ±ß¤W¤»ÂI  °òªA¤§©]
+[0m[1m 
+[0m[33;1m                                 
+[0m[33;1m                              §ö¬K¼Ó  §Y±N¤ÞÃz
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m
+[0m
+[0m[1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m                            [31m¡Ý W A R N I N G ¡Ý
+[0m
+[0m[1m 
+[0m[1m                                   
+[0m[1m                     [33m  ¤Q¤ë¤T¤Q   ±ß¤W¤»ÂI  °òªA¤§©]
+[0m[1m 
+[0m[33;1m                                 
+[0m[33;1m                              §ö¬K¼Ó  §Y±N¤ÞÃz
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m
+[0m
+[0m[1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m                           [31m [0;31m¡Ý W A R N I N G ¡Ý
+[0m
+[0m[1m 
+[0m[1m                                   
+[0m[1m     [0m                 [33m ¤Q¤ë¤T¤Q   ±ß¤W¤»ÂI  °òªA¤§©]
+[0m[33m 
+[0m[33m                                 
+[0m[33m                              §ö¬K¼Ó  §Y±N¤ÞÃz
+[0m[33m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m
+[0m
+[0m[1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m     [30m                       ¡Ý W A R N I N G ¡Ý
+[0m
+[0m[30;1m 
+[0m[30;1m                                   
+[0m[30;1m                       ¤Q¤ë¤T¤Q   ±ß¤W¤»ÂI  °òªA¤§©]
+[0m[30;1m 
+[0m[30;1m                                 
+[0m[30;1m                              §ö¬K¼Ó  §Y±N¤ÞÃz
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m[33;1m 
+[0m
+[0m
+[0m[1m [0m
+
+--
+[m[1;31m¡° ¨Ó·½:¡E§öªLºñ·N passion.tmu.edu.tw¡E[FROM: 218-166-232-50.dynam][m
+[1;36m¡° ­×§ï:¡Eolivine ©ó Oct 16 02:23:13 ­×§ï¥»¤å¡E[FROM: 218-166-232-50.dynam][m
+[1;33m¡÷ [1;32molivine     : [1;37m¦U¤jª©¤wÂà§¹                                  [1;36m±À[0;36mOct 16 02:43:47[m
+[1;33m¡÷ [1;32mbgbkbear    : [1;37m¤ý°ß»¨~§A§Ö¦¨¬°°ÊµeÅ]¤H§a~XD ÞË °ò©]¥ý½Ä ¨þ   [1;36m±À[0;36mOct 16 11:02:22[m
+[1;33m¡÷ [1;32mAQQ         : [1;37m°òªA¤§©]¦n·Q¥h!§Ú¸ò°¶ªZ³£½Õ¦n¯Z¤F ¥u§Æ±æ·í¤Ñ¤ [1;36m±À[0;36mOct 21 00:30:20[m
+--
+[m[1;31m¡° Âà±H:¡E§öªLºñ·N bbs.tmu.edu.tw¡E[FROM: 1-171-254-173.dynami][m
