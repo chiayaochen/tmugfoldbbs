@@ -2,7 +2,7 @@
   "backup_generated_at": "2026-10-01T14:37:21.031513+00:00",
   "repository": "chiayaochen/tmugfoldbbs",
   "branch": "archive/gmail-tmu-service",
-  "status": "prepared_locally_not_yet_verified_on_github",
+  "status": "complete",
   "filename_date_policy": "original Date header local time, preserving source timezone in metadata; never use BBS body date",
   "total_labels": 167,
   "total_unique_messages": 2534,
@@ -7894,7 +7894,259 @@
   "verification": {
     "local_missing_message_ids": [],
     "gmail_label_count_mismatches": [],
-    "github_verification_complete": false
+    "github_verification_complete": true,
+    "passed": true,
+    "verified_data_commit": "647891d2d9e019474fe4c45793d30ac8e7d85e6a",
+    "verified_data_tree_sha": "7ff2e074851e9b09709d585aceba64dc9652a952",
+    "verified_at": "2026-10-01T14:51:11.073515+00:00",
+    "verified_archive_file_count": 2716,
+    "gmail_counts_rechecked_after_upload": true,
+    "metadata_commit_final_hash_check": "performed after publication of completion metadata"
   },
-  "gmail_mutations": false
+  "gmail_mutations": false,
+  "backup_completed_at": "2026-10-01T14:53:05.852918+00:00",
+  "total_eml_files": 2547,
+  "total_repository_archive_files": 2717,
+  "newly_archived_unique_messages": 2534,
+  "errors_count": 0,
+  "resolved_transient_errors": [
+    {
+      "stage": "gmail_raw_read",
+      "gmail_message_id": "15baaf2dadc76ef3",
+      "initial_reason": "Gmail API per-minute quota exceeded",
+      "status": "resolved_by_retry"
+    },
+    {
+      "stage": "gmail_raw_read",
+      "gmail_message_id": "15baaf39de02fd02",
+      "initial_reason": "Gmail API per-minute quota exceeded",
+      "status": "resolved_by_retry"
+    },
+    {
+      "stage": "github_blob_upload",
+      "gmail_message_id": "15baaf39de02fd02",
+      "initial_reason": "RemoteProtocolError: Server disconnected without sending a response",
+      "status": "resolved_by_retry"
+    }
+  ],
+  "header_decoding_notes": [
+    {
+      "gmail_message_id": "15baaefa7b6ee05c",
+      "subject_display": "[轉寄] 【學校公告】選課須知（含體育課程課表和注意\\xa8 …",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15baaf39de02fd02",
+      "subject_display": "[轉寄] 【公告】賀基服獲得95年全國大專校院社團評鑑\\xaf …",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bab00d07ab777c",
+      "subject_display": "[轉寄] 教育部獎補助款補助社團購置器材與設備已開始\\xa5 …",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bab034434afd93",
+      "subject_display": "[轉寄] [轉載] [文章] 社團，值得嘛\\xa1",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bab05d1ccdbd4c",
+      "subject_display": "[轉寄] 2007醫學人文公益舞台劇『67.5公分的天空』巡\\xb0 …",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bab082d97e21ec",
+      "subject_display": "[轉寄] [轉載] [重要公告]9/19 中午8006教室召開本學\\xb4 …",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bab110ff5791b8",
+      "subject_display": "[轉寄] 【公告】九十七年暑假定期隊與文藝服務隊相關\\xa8 …",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bab148bea83d4b",
+      "subject_display": "[轉寄] 【公告】基服暨春暉社第二十二屆幹部訓練─行\\xab …",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bab15115ac387d",
+      "subject_display": "[轉寄] [活動]北醫基層文化服務團 迎新宿營-北基奧運\\xb6 …",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bab1570cd5f985",
+      "subject_display": "[轉寄] [活動]10/4.5北醫基服迎新宿營-北基奧運 再次\\xb0 …",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bab182d644af39",
+      "subject_display": "[轉寄] [轉載] [版宣] 情人節花束自己動手做 -- 浪漫\\xaa …",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bab1d2d638d061",
+      "subject_display": "[轉寄] 芳\\xfb漢水晶燈",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bab8598abb905a",
+      "subject_display": "[轉寄] 很久以前做的 ID對照表，從古老的文章裡\\xab wovenmelta ",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bab85b0b632c60",
+      "subject_display": "[轉寄] ㄞˋ  ㄉㄧ˙ ID對照表【３／２８整\\xb2     weirdquark ",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bb03a12c971e07",
+      "subject_display": "[轉寄] 九五暑定二 唯豪的生好久終於生出來的出\\xb6 olivine ",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bb030b98010125",
+      "subject_display": "[轉寄] 94暑定一出隊感言 by誌緯  初章  光舞中\\xbf cooldog ",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bb030e85d09ef6",
+      "subject_display": "[轉寄] 94暑定一出隊感言 by誌緯  中章  為之呢\\xb3 cooldog ",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bafca273f82891",
+      "subject_display": "[轉寄] 88冬定點名單\\xe6                          treasure ",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bb0011f9ceb7e9",
+      "subject_display": "[轉寄] [隊長公告 定一隊注意]令我非常震驚的一\\xa5 mong ",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bb034927282bfe",
+      "subject_display": "[轉寄] 95寒定二隊長感言(各位要趕快囉，居然輸\\xb5 green ",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bb020598a9ef89",
+      "subject_display": "[轉寄] 93暑定二脫線大王姚睿的出隊感言---行訓\\xbd extracell ",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bb020700b811f1",
+      "subject_display": "[轉寄] 93暑定二脫線大王姚睿的出隊感言---出隊\\xbd extracell ",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bb0208b68a5edc",
+      "subject_display": "[轉寄] 93暑定二脫線大王姚睿的出隊感言---出隊\\xbd extracell ",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bb020bb0d62591",
+      "subject_display": "[轉寄] 93暑定二多線大王姚睿的出隊感言---感謝\\xbd extracell ",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bb020d3fa938a0",
+      "subject_display": "[轉寄] 93暑定二脫線大王姚睿的出隊感言---成長\\xbd extracell ",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bb020eb4e5c508",
+      "subject_display": "[轉寄] 93暑定二脫線大王姚睿的出隊感言---自己\\xbd extracell ",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bb0217d4ee845b",
+      "subject_display": "[轉寄] 93暑定二脫線大王姚睿的出隊感言---螢火\\xc2 extracell ",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15baf9c3251452ce",
+      "subject_display": "[轉寄] 喲呼!第一波基服之夜宣傳之大家一起改暱\\xba huijen ",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bb8fd651e77c26",
+      "subject_display": "[轉寄] 【好文佳句選錄】壓力管理(1)--個人\\xbd     weirdquark ",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bb8fd7ccb58487",
+      "subject_display": "[轉寄] 【好文佳句選錄】壓力管理(2)--組織\\xbd     weirdquark ",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bb8ffbe083aa73",
+      "subject_display": "[轉寄] [轉載] 我不想等到失敗，才後悔自己有潛\\xa4 yunchu ",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bb8d3cdde28bb9",
+      "subject_display": "[轉寄] 祝身材曼妙.歌聲動人的陳雅喵生日快\\xbc     weirdquark ",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bb8d4ef608b712",
+      "subject_display": "[轉寄] 祝身材曼妙.歌聲動人的陳雅喵生日快\\xbc     weirdquark ",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bb8d60f0bf0d65",
+      "subject_display": "[轉寄] 祝身材曼妙.歌聲動人的陳雅喵生日快\\xbc     weirdquark ",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bb8d731a9ff3fe",
+      "subject_display": "[轉寄] 祝身材曼妙.歌聲動人的陳雅喵生日快\\xbc     weirdquark ",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bb8d85052c23ac",
+      "subject_display": "[轉寄] 祝身材曼妙.歌聲動人的陳雅喵生日快\\xbc     weirdquark ",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bb8d973c28ddde",
+      "subject_display": "[轉寄] 祝身材曼妙.歌聲動人的陳雅喵生日快\\xbc     weirdquark ",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bb8da93f451fb3",
+      "subject_display": "[轉寄] 祝身材曼妙.歌聲動人的陳雅喵生日快\\xbc     weirdquark ",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bb8d1694aae8be",
+      "subject_display": "[轉寄] 偉大副隊坤宏生日快樂\\xbc                  weirdquark ",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bb77ba3b305289",
+      "subject_display": "[轉寄] 九七寒定一 情人節大放送 む給夥伴們め \\xa4 silent ",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bb77bd06b4ca56",
+      "subject_display": "[轉寄] 九七寒定二 神仙也瘋狂 ~戰神~(前言和解\\xc4 thales ",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    },
+    {
+      "gmail_message_id": "15bb77be8f0e8073",
+      "subject_display": "[轉寄] 九七寒定二 神仙也瘋狂 ~戰神~(日記和檢\\xb0 thales ",
+      "note": "Original header includes invalid/incomplete Big5 bytes; undecodable bytes shown as hex escapes. Original eml bytes unchanged."
+    }
+  ],
+  "raw_preservation": "Gmail RFC822 source bytes, including original encodings, CRLF, MIME boundaries and all headers; no MIME reserialization",
+  "transport": {
+    "gmail": "connected Gmail connector, read-only",
+    "github": "connected GitHub connector for preflight, branch creation, first two batches and remote verification; native Git binary-preserving transfer for batches 003-028"
+  },
+  "data_commit_count": 28,
+  "verified_data_commit": "647891d2d9e019474fe4c45793d30ac8e7d85e6a",
+  "verification_report": "backup-verification.json"
 }
