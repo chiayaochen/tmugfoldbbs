@@ -40,3 +40,7 @@ Playwright 的 WebKit `setOffline()` 在這個 macOS runtime 會於 service work
 自動盤點包含 681 次 Email、498 次電話格式、841 次 IP、98 次疑似地址，以及作者識別碼與 EML routing headers。這些是 regex 命中次數，不代表有同樣數量的不同個人；也可能漏掉其他資訊。
 
 依使用者指示製作完整 gh-pages 典藏。既有 repository 與 Pages 是公開的。已產生逐 message ID 盤點與公開前檢查流程，沒有自動匿名化或改寫原文，也**沒有宣稱完成逐篇人工同意／隱私審核**。需要私人版本時，README 提供全站 Access 或 VPN／Tailscale 部署，必須連原始檔、索引與來源 repository 存取權一併處理。
+
+## 正式網站驗證
+
+GitHub Pages 的 index.html 以 HTTP 200 回應，內容與本機產物 byte-identical。線上 390px Chromium 與 WebKit 都確認繁體中文搜尋、直達文章、PWA service worker 與實際 CJK/ASCII 欄寬比例（約 1.99982），沒有 JS runtime errors。詳見 deployment-verification.json 與 *-390-live.png。

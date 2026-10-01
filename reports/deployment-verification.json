@@ -1,0 +1,34 @@
+{
+  "status": "deployed-and-verified",
+  "url": "https://chiayaochen.github.io/tmugfoldbbs/index.html",
+  "deployed_content_commit": "524385968e76fc010967e757e60c37ea890fdf89",
+  "source_archive_commit": "01008ff3d636695b06f73c303637838d8f0d1fa6",
+  "source_archive_unchanged": true,
+  "index_sha256": "28a73d66d5cd9a5ae5d34d1d745a0adf4ce986f5c428aa5114c9c9de68c9b59f",
+  "live_index_sha256": "28a73d66d5cd9a5ae5d34d1d745a0adf4ce986f5c428aa5114c9c9de68c9b59f",
+  "live_index_byte_identical": true,
+  "python_tests_passed": 7,
+  "local_browser_checks_passed": 208,
+  "live_mobile_engine_checks": [
+    {
+      "engine": "chromium",
+      "home": "2,534 篇文章 · 167 個分類 · 1998–2012",
+      "article": "https://chiayaochen.github.io/tmugfoldbbs/boards/label-110/15bafc5d0f29be82.html",
+      "cjk_to_ascii_ratio": 1.9998197711093089,
+      "service_worker": true,
+      "search": true,
+      "js_errors": []
+    },
+    {
+      "engine": "webkit",
+      "home": "2,534 篇文章 · 167 個分類 · 1998–2012",
+      "article": "https://chiayaochen.github.io/tmugfoldbbs/boards/label-110/15bafc5d0f29be82.html",
+      "cjk_to_ascii_ratio": 1.9998197711093089,
+      "service_worker": true,
+      "search": true,
+      "js_errors": []
+    }
+  ],
+  "physical_device_testing": "not available; WebKit/Chromium mobile viewport and touch emulation tested",
+  "publication_authorization": "reports/publication-approval.md"
+}
