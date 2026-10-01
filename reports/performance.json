@@ -1,0 +1,44 @@
+[
+  {
+    "profile": "4G-simulation",
+    "network": {
+      "name": "4G-simulation",
+      "latency": 150,
+      "download": 200000,
+      "upload": 93750,
+      "cpu": 4
+    },
+    "home_dom_ms": 587,
+    "home_transfer_bytes": 82691,
+    "home_requests": [
+      "http://127.0.0.1:8765/site/assets/style.css",
+      "http://127.0.0.1:8765/site/assets/app.js"
+    ],
+    "ordinary_article_dom_ms": 355,
+    "ordinary_article_transfer_bytes": 36077,
+    "chinese_search_ms": 1832,
+    "result_count": 20,
+    "notes": "Local HTTP, uncompressed payloads; Chromium network/CPU throttling. Not a physical handset benchmark."
+  },
+  {
+    "profile": "5G-simulation",
+    "network": {
+      "name": "5G-simulation",
+      "latency": 30,
+      "download": 2500000,
+      "upload": 625000,
+      "cpu": 2
+    },
+    "home_dom_ms": 122,
+    "home_transfer_bytes": 82691,
+    "home_requests": [
+      "http://127.0.0.1:8765/site/assets/style.css",
+      "http://127.0.0.1:8765/site/assets/app.js"
+    ],
+    "ordinary_article_dom_ms": 76,
+    "ordinary_article_transfer_bytes": 36077,
+    "chinese_search_ms": 301,
+    "result_count": 20,
+    "notes": "Local HTTP, uncompressed payloads; Chromium network/CPU throttling. Not a physical handset benchmark."
+  }
+]

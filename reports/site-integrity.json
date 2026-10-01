@@ -1,0 +1,24 @@
+{
+  "counts": {
+    "html_pages": 2723,
+    "local_links": 50418,
+    "article_pages": 2547,
+    "verified_raw_hashes": 2534,
+    "verified_body_hashes": 2534,
+    "verified_MIME_bodies": 2534,
+    "verified_categories": 167,
+    "verified_provenance_files": 170,
+    "search_terms": 138469
+  },
+  "unique_article_ids": 2534,
+  "search_documents": 2534,
+  "asset_bytes": {
+    "search-worker.js": 2730,
+    "style.css": 7290,
+    "app.js": 8883
+  },
+  "home_bytes": 65618,
+  "largest_html_bytes": 3928323,
+  "total_site_bytes": 169069883,
+  "errors": []
+}

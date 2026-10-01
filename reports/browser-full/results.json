@@ -1,0 +1,1037 @@
+{
+  "checks": [
+    {
+      "name": "chromium 320 home loads no fulltext",
+      "pass": true
+    },
+    {
+      "name": "chromium 320 home no overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium 320 board filter matches",
+      "pass": true
+    },
+    {
+      "name": "chromium 320 board filter hides",
+      "pass": true
+    },
+    {
+      "name": "chromium 320 article renders",
+      "pass": true
+    },
+    {
+      "name": "chromium 320 prose no page overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium 320 font >=16",
+      "pass": true
+    },
+    {
+      "name": "chromium 320 font changes",
+      "pass": true,
+      "details": "20px"
+    },
+    {
+      "name": "chromium 320 raw mode",
+      "pass": true
+    },
+    {
+      "name": "chromium 320 CJK two columns",
+      "pass": true,
+      "details": {
+        "glyph": 24.078125,
+        "ascii": 12.041015625
+      }
+    },
+    {
+      "name": "chromium 320 mode persists",
+      "pass": true
+    },
+    {
+      "name": "chromium 320 font persists",
+      "pass": true
+    },
+    {
+      "name": "chromium 320 bottom nav does not cover last content",
+      "pass": true,
+      "details": {
+        "bottom": 733.640625,
+        "nav": 787,
+        "height": 57
+      }
+    },
+    {
+      "name": "chromium 320 touch nav >=44",
+      "pass": true,
+      "details": {
+        "bottom": 733.640625,
+        "nav": 787,
+        "height": 57
+      }
+    },
+    {
+      "name": "chromium 320 recent article",
+      "pass": true
+    },
+    {
+      "name": "chromium 320 no JS errors",
+      "pass": true,
+      "details": []
+    },
+    {
+      "name": "chromium 375 home loads no fulltext",
+      "pass": true
+    },
+    {
+      "name": "chromium 375 home no overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium 375 board filter matches",
+      "pass": true
+    },
+    {
+      "name": "chromium 375 board filter hides",
+      "pass": true
+    },
+    {
+      "name": "chromium 375 article renders",
+      "pass": true
+    },
+    {
+      "name": "chromium 375 prose no page overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium 375 font >=16",
+      "pass": true
+    },
+    {
+      "name": "chromium 375 font changes",
+      "pass": true,
+      "details": "20px"
+    },
+    {
+      "name": "chromium 375 raw mode",
+      "pass": true
+    },
+    {
+      "name": "chromium 375 CJK two columns",
+      "pass": true,
+      "details": {
+        "glyph": 24.078125,
+        "ascii": 12.041015625
+      }
+    },
+    {
+      "name": "chromium 375 mode persists",
+      "pass": true
+    },
+    {
+      "name": "chromium 375 font persists",
+      "pass": true
+    },
+    {
+      "name": "chromium 375 bottom nav does not cover last content",
+      "pass": true,
+      "details": {
+        "bottom": 734.203125,
+        "nav": 787,
+        "height": 57
+      }
+    },
+    {
+      "name": "chromium 375 touch nav >=44",
+      "pass": true,
+      "details": {
+        "bottom": 734.203125,
+        "nav": 787,
+        "height": 57
+      }
+    },
+    {
+      "name": "chromium 375 recent article",
+      "pass": true
+    },
+    {
+      "name": "chromium 375 no JS errors",
+      "pass": true,
+      "details": []
+    },
+    {
+      "name": "chromium 390 home loads no fulltext",
+      "pass": true
+    },
+    {
+      "name": "chromium 390 home no overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium 390 board filter matches",
+      "pass": true
+    },
+    {
+      "name": "chromium 390 board filter hides",
+      "pass": true
+    },
+    {
+      "name": "chromium 390 article renders",
+      "pass": true
+    },
+    {
+      "name": "chromium 390 prose no page overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium 390 font >=16",
+      "pass": true
+    },
+    {
+      "name": "chromium 390 font changes",
+      "pass": true,
+      "details": "20px"
+    },
+    {
+      "name": "chromium 390 raw mode",
+      "pass": true
+    },
+    {
+      "name": "chromium 390 CJK two columns",
+      "pass": true,
+      "details": {
+        "glyph": 24.078125,
+        "ascii": 12.041015625
+      }
+    },
+    {
+      "name": "chromium 390 mode persists",
+      "pass": true
+    },
+    {
+      "name": "chromium 390 font persists",
+      "pass": true
+    },
+    {
+      "name": "chromium 390 bottom nav does not cover last content",
+      "pass": true,
+      "details": {
+        "bottom": 734.453125,
+        "nav": 787,
+        "height": 57
+      }
+    },
+    {
+      "name": "chromium 390 touch nav >=44",
+      "pass": true,
+      "details": {
+        "bottom": 734.453125,
+        "nav": 787,
+        "height": 57
+      }
+    },
+    {
+      "name": "chromium 390 recent article",
+      "pass": true
+    },
+    {
+      "name": "chromium 390 no JS errors",
+      "pass": true,
+      "details": []
+    },
+    {
+      "name": "chromium 430 home loads no fulltext",
+      "pass": true
+    },
+    {
+      "name": "chromium 430 home no overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium 430 board filter matches",
+      "pass": true
+    },
+    {
+      "name": "chromium 430 board filter hides",
+      "pass": true
+    },
+    {
+      "name": "chromium 430 article renders",
+      "pass": true
+    },
+    {
+      "name": "chromium 430 prose no page overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium 430 font >=16",
+      "pass": true
+    },
+    {
+      "name": "chromium 430 font changes",
+      "pass": true,
+      "details": "20px"
+    },
+    {
+      "name": "chromium 430 raw mode",
+      "pass": true
+    },
+    {
+      "name": "chromium 430 CJK two columns",
+      "pass": true,
+      "details": {
+        "glyph": 24.078125,
+        "ascii": 12.041015625
+      }
+    },
+    {
+      "name": "chromium 430 mode persists",
+      "pass": true
+    },
+    {
+      "name": "chromium 430 font persists",
+      "pass": true
+    },
+    {
+      "name": "chromium 430 bottom nav does not cover last content",
+      "pass": true,
+      "details": {
+        "bottom": 733.53125,
+        "nav": 787,
+        "height": 57
+      }
+    },
+    {
+      "name": "chromium 430 touch nav >=44",
+      "pass": true,
+      "details": {
+        "bottom": 733.53125,
+        "nav": 787,
+        "height": 57
+      }
+    },
+    {
+      "name": "chromium 430 recent article",
+      "pass": true
+    },
+    {
+      "name": "chromium 430 no JS errors",
+      "pass": true,
+      "details": []
+    },
+    {
+      "name": "chromium 768 home loads no fulltext",
+      "pass": true
+    },
+    {
+      "name": "chromium 768 home no overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium 768 board filter matches",
+      "pass": true
+    },
+    {
+      "name": "chromium 768 board filter hides",
+      "pass": true
+    },
+    {
+      "name": "chromium 768 article renders",
+      "pass": true
+    },
+    {
+      "name": "chromium 768 prose no page overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium 768 font >=16",
+      "pass": true
+    },
+    {
+      "name": "chromium 768 font changes",
+      "pass": true,
+      "details": "20px"
+    },
+    {
+      "name": "chromium 768 raw mode",
+      "pass": true
+    },
+    {
+      "name": "chromium 768 CJK two columns",
+      "pass": true,
+      "details": {
+        "glyph": 24.078125,
+        "ascii": 12.041015625
+      }
+    },
+    {
+      "name": "chromium 768 mode persists",
+      "pass": true
+    },
+    {
+      "name": "chromium 768 font persists",
+      "pass": true
+    },
+    {
+      "name": "chromium 768 bottom nav does not cover last content",
+      "pass": true,
+      "details": {
+        "bottom": 733.90625,
+        "nav": 787,
+        "height": 57
+      }
+    },
+    {
+      "name": "chromium 768 touch nav >=44",
+      "pass": true,
+      "details": {
+        "bottom": 733.90625,
+        "nav": 787,
+        "height": 57
+      }
+    },
+    {
+      "name": "chromium 768 recent article",
+      "pass": true
+    },
+    {
+      "name": "chromium 768 no JS errors",
+      "pass": true,
+      "details": []
+    },
+    {
+      "name": "chromium 1280 home loads no fulltext",
+      "pass": true
+    },
+    {
+      "name": "chromium 1280 home no overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium 1280 board filter matches",
+      "pass": true
+    },
+    {
+      "name": "chromium 1280 board filter hides",
+      "pass": true
+    },
+    {
+      "name": "chromium 1280 article renders",
+      "pass": true
+    },
+    {
+      "name": "chromium 1280 prose no page overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium 1280 font >=16",
+      "pass": true
+    },
+    {
+      "name": "chromium 1280 font changes",
+      "pass": true,
+      "details": "20px"
+    },
+    {
+      "name": "chromium 1280 raw mode",
+      "pass": true
+    },
+    {
+      "name": "chromium 1280 CJK two columns",
+      "pass": true,
+      "details": {
+        "glyph": 24.078125,
+        "ascii": 12.041015625
+      }
+    },
+    {
+      "name": "chromium 1280 mode persists",
+      "pass": true
+    },
+    {
+      "name": "chromium 1280 font persists",
+      "pass": true
+    },
+    {
+      "name": "chromium 1280 bottom nav does not cover last content",
+      "pass": true,
+      "details": {
+        "bottom": 733.90625,
+        "nav": 787,
+        "height": 57
+      }
+    },
+    {
+      "name": "chromium 1280 touch nav >=44",
+      "pass": true,
+      "details": {
+        "bottom": 733.90625,
+        "nav": 787,
+        "height": 57
+      }
+    },
+    {
+      "name": "chromium 1280 recent article",
+      "pass": true
+    },
+    {
+      "name": "chromium 1280 no JS errors",
+      "pass": true,
+      "details": []
+    },
+    {
+      "name": "chromium Traditional Chinese fulltext",
+      "pass": true
+    },
+    {
+      "name": "chromium next article",
+      "pass": true
+    },
+    {
+      "name": "chromium previous article",
+      "pass": true
+    },
+    {
+      "name": "chromium recent article offline",
+      "pass": true
+    },
+    {
+      "name": "chromium offline list",
+      "pass": true
+    },
+    {
+      "name": "chromium real Big5 half-color glyphs",
+      "pass": true
+    },
+    {
+      "name": "chromium box glyph fills two terminal columns",
+      "pass": true,
+      "details": {
+        "box": 21.671875,
+        "ink": 21.6875
+      }
+    },
+    {
+      "name": "chromium art swipe does not navigate",
+      "pass": true
+    },
+    {
+      "name": "webkit 320 home loads no fulltext",
+      "pass": true
+    },
+    {
+      "name": "webkit 320 home no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit 320 board filter matches",
+      "pass": true
+    },
+    {
+      "name": "webkit 320 board filter hides",
+      "pass": true
+    },
+    {
+      "name": "webkit 320 article renders",
+      "pass": true
+    },
+    {
+      "name": "webkit 320 prose no page overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit 320 font >=16",
+      "pass": true
+    },
+    {
+      "name": "webkit 320 font changes",
+      "pass": true,
+      "details": "20px"
+    },
+    {
+      "name": "webkit 320 raw mode",
+      "pass": true
+    },
+    {
+      "name": "webkit 320 CJK two columns",
+      "pass": true,
+      "details": {
+        "glyph": 24.078125,
+        "ascii": 12.041015625
+      }
+    },
+    {
+      "name": "webkit 320 mode persists",
+      "pass": true
+    },
+    {
+      "name": "webkit 320 font persists",
+      "pass": true
+    },
+    {
+      "name": "webkit 320 bottom nav does not cover last content",
+      "pass": true,
+      "details": {
+        "bottom": 733.65625,
+        "nav": 787,
+        "height": 57
+      }
+    },
+    {
+      "name": "webkit 320 touch nav >=44",
+      "pass": true,
+      "details": {
+        "bottom": 733.65625,
+        "nav": 787,
+        "height": 57
+      }
+    },
+    {
+      "name": "webkit 320 recent article",
+      "pass": true
+    },
+    {
+      "name": "webkit 320 no JS errors",
+      "pass": true,
+      "details": []
+    },
+    {
+      "name": "webkit 375 home loads no fulltext",
+      "pass": true
+    },
+    {
+      "name": "webkit 375 home no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit 375 board filter matches",
+      "pass": true
+    },
+    {
+      "name": "webkit 375 board filter hides",
+      "pass": true
+    },
+    {
+      "name": "webkit 375 article renders",
+      "pass": true
+    },
+    {
+      "name": "webkit 375 prose no page overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit 375 font >=16",
+      "pass": true
+    },
+    {
+      "name": "webkit 375 font changes",
+      "pass": true,
+      "details": "20px"
+    },
+    {
+      "name": "webkit 375 raw mode",
+      "pass": true
+    },
+    {
+      "name": "webkit 375 CJK two columns",
+      "pass": true,
+      "details": {
+        "glyph": 24.078125,
+        "ascii": 12.041015625
+      }
+    },
+    {
+      "name": "webkit 375 mode persists",
+      "pass": true
+    },
+    {
+      "name": "webkit 375 font persists",
+      "pass": true
+    },
+    {
+      "name": "webkit 375 bottom nav does not cover last content",
+      "pass": true,
+      "details": {
+        "bottom": 734.21875,
+        "nav": 787,
+        "height": 57
+      }
+    },
+    {
+      "name": "webkit 375 touch nav >=44",
+      "pass": true,
+      "details": {
+        "bottom": 734.21875,
+        "nav": 787,
+        "height": 57
+      }
+    },
+    {
+      "name": "webkit 375 recent article",
+      "pass": true
+    },
+    {
+      "name": "webkit 375 no JS errors",
+      "pass": true,
+      "details": []
+    },
+    {
+      "name": "webkit 390 home loads no fulltext",
+      "pass": true
+    },
+    {
+      "name": "webkit 390 home no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit 390 board filter matches",
+      "pass": true
+    },
+    {
+      "name": "webkit 390 board filter hides",
+      "pass": true
+    },
+    {
+      "name": "webkit 390 article renders",
+      "pass": true
+    },
+    {
+      "name": "webkit 390 prose no page overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit 390 font >=16",
+      "pass": true
+    },
+    {
+      "name": "webkit 390 font changes",
+      "pass": true,
+      "details": "20px"
+    },
+    {
+      "name": "webkit 390 raw mode",
+      "pass": true
+    },
+    {
+      "name": "webkit 390 CJK two columns",
+      "pass": true,
+      "details": {
+        "glyph": 24.078125,
+        "ascii": 12.041015625
+      }
+    },
+    {
+      "name": "webkit 390 mode persists",
+      "pass": true
+    },
+    {
+      "name": "webkit 390 font persists",
+      "pass": true
+    },
+    {
+      "name": "webkit 390 bottom nav does not cover last content",
+      "pass": true,
+      "details": {
+        "bottom": 734.46875,
+        "nav": 787,
+        "height": 57
+      }
+    },
+    {
+      "name": "webkit 390 touch nav >=44",
+      "pass": true,
+      "details": {
+        "bottom": 734.46875,
+        "nav": 787,
+        "height": 57
+      }
+    },
+    {
+      "name": "webkit 390 recent article",
+      "pass": true
+    },
+    {
+      "name": "webkit 390 no JS errors",
+      "pass": true,
+      "details": []
+    },
+    {
+      "name": "webkit 430 home loads no fulltext",
+      "pass": true
+    },
+    {
+      "name": "webkit 430 home no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit 430 board filter matches",
+      "pass": true
+    },
+    {
+      "name": "webkit 430 board filter hides",
+      "pass": true
+    },
+    {
+      "name": "webkit 430 article renders",
+      "pass": true
+    },
+    {
+      "name": "webkit 430 prose no page overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit 430 font >=16",
+      "pass": true
+    },
+    {
+      "name": "webkit 430 font changes",
+      "pass": true,
+      "details": "20px"
+    },
+    {
+      "name": "webkit 430 raw mode",
+      "pass": true
+    },
+    {
+      "name": "webkit 430 CJK two columns",
+      "pass": true,
+      "details": {
+        "glyph": 24.078125,
+        "ascii": 12.041015625
+      }
+    },
+    {
+      "name": "webkit 430 mode persists",
+      "pass": true
+    },
+    {
+      "name": "webkit 430 font persists",
+      "pass": true
+    },
+    {
+      "name": "webkit 430 bottom nav does not cover last content",
+      "pass": true,
+      "details": {
+        "bottom": 733.546875,
+        "nav": 787,
+        "height": 57
+      }
+    },
+    {
+      "name": "webkit 430 touch nav >=44",
+      "pass": true,
+      "details": {
+        "bottom": 733.546875,
+        "nav": 787,
+        "height": 57
+      }
+    },
+    {
+      "name": "webkit 430 recent article",
+      "pass": true
+    },
+    {
+      "name": "webkit 430 no JS errors",
+      "pass": true,
+      "details": []
+    },
+    {
+      "name": "webkit 768 home loads no fulltext",
+      "pass": true
+    },
+    {
+      "name": "webkit 768 home no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit 768 board filter matches",
+      "pass": true
+    },
+    {
+      "name": "webkit 768 board filter hides",
+      "pass": true
+    },
+    {
+      "name": "webkit 768 article renders",
+      "pass": true
+    },
+    {
+      "name": "webkit 768 prose no page overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit 768 font >=16",
+      "pass": true
+    },
+    {
+      "name": "webkit 768 font changes",
+      "pass": true,
+      "details": "20px"
+    },
+    {
+      "name": "webkit 768 raw mode",
+      "pass": true
+    },
+    {
+      "name": "webkit 768 CJK two columns",
+      "pass": true,
+      "details": {
+        "glyph": 24.078125,
+        "ascii": 12.041015625
+      }
+    },
+    {
+      "name": "webkit 768 mode persists",
+      "pass": true
+    },
+    {
+      "name": "webkit 768 font persists",
+      "pass": true
+    },
+    {
+      "name": "webkit 768 bottom nav does not cover last content",
+      "pass": true,
+      "details": {
+        "bottom": 733.921875,
+        "nav": 787,
+        "height": 57
+      }
+    },
+    {
+      "name": "webkit 768 touch nav >=44",
+      "pass": true,
+      "details": {
+        "bottom": 733.921875,
+        "nav": 787,
+        "height": 57
+      }
+    },
+    {
+      "name": "webkit 768 recent article",
+      "pass": true
+    },
+    {
+      "name": "webkit 768 no JS errors",
+      "pass": true,
+      "details": []
+    },
+    {
+      "name": "webkit 1280 home loads no fulltext",
+      "pass": true
+    },
+    {
+      "name": "webkit 1280 home no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit 1280 board filter matches",
+      "pass": true
+    },
+    {
+      "name": "webkit 1280 board filter hides",
+      "pass": true
+    },
+    {
+      "name": "webkit 1280 article renders",
+      "pass": true
+    },
+    {
+      "name": "webkit 1280 prose no page overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit 1280 font >=16",
+      "pass": true
+    },
+    {
+      "name": "webkit 1280 font changes",
+      "pass": true,
+      "details": "20px"
+    },
+    {
+      "name": "webkit 1280 raw mode",
+      "pass": true
+    },
+    {
+      "name": "webkit 1280 CJK two columns",
+      "pass": true,
+      "details": {
+        "glyph": 24.078125,
+        "ascii": 12.041015625
+      }
+    },
+    {
+      "name": "webkit 1280 mode persists",
+      "pass": true
+    },
+    {
+      "name": "webkit 1280 font persists",
+      "pass": true
+    },
+    {
+      "name": "webkit 1280 bottom nav does not cover last content",
+      "pass": true,
+      "details": {
+        "bottom": 733.921875,
+        "nav": 787,
+        "height": 57
+      }
+    },
+    {
+      "name": "webkit 1280 touch nav >=44",
+      "pass": true,
+      "details": {
+        "bottom": 733.921875,
+        "nav": 787,
+        "height": 57
+      }
+    },
+    {
+      "name": "webkit 1280 recent article",
+      "pass": true
+    },
+    {
+      "name": "webkit 1280 no JS errors",
+      "pass": true,
+      "details": []
+    },
+    {
+      "name": "webkit Traditional Chinese fulltext",
+      "pass": true
+    },
+    {
+      "name": "webkit next article",
+      "pass": true
+    },
+    {
+      "name": "webkit previous article",
+      "pass": true
+    },
+    {
+      "name": "webkit recent article offline",
+      "pass": true
+    },
+    {
+      "name": "webkit offline list",
+      "pass": true
+    },
+    {
+      "name": "webkit real Big5 half-color glyphs",
+      "pass": true
+    },
+    {
+      "name": "webkit box glyph fills two terminal columns",
+      "pass": true,
+      "details": {
+        "box": 21.671875,
+        "ink": 21.6875
+      }
+    },
+    {
+      "name": "webkit art swipe does not navigate",
+      "pass": true
+    }
+  ],
+  "errors": []
+}
