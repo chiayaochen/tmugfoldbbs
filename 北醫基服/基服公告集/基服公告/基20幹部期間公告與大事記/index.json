@@ -1,0 +1,262 @@
+[
+  {
+    "gmail_message_id": "15bab977a0c7a39e",
+    "gmail_thread_id": "15bab977a0c7a39e",
+    "date": "Thu, 27 Apr 2017 02:47:55 +0800",
+    "date_iso": "2017-04-27T02:47:55+08:00",
+    "date_epoch": 1493232475.0,
+    "from": "weirdquark.bbs@bbs.tmu.edu.tw",
+    "to": [
+      "chiayao.chen@gmail.com"
+    ],
+    "cc": [],
+    "bcc": [],
+    "reply_to": [
+      "weirdquark.bbs@bbs.tmu.edu.tw"
+    ],
+    "subject": "[轉寄] 【公告】北醫基服第二十屆幹部名單       tmuGF ",
+    "message_id_header": "<201704261847.v3QIltT6001768@bbs.tmu.edu.tw>",
+    "in_reply_to": "",
+    "references": "",
+    "gmail_labels": [
+      "IMPORTANT",
+      "北醫基服/基服公告集/基服公告/基20幹部期間公告與大事記",
+      "CATEGORY_PERSONAL"
+    ],
+    "gmail_label_ids": [
+      "IMPORTANT",
+      "Label_64",
+      "CATEGORY_PERSONAL"
+    ],
+    "file": "20170427-024755__gmail-15bab977a0c7a39e__[轉寄] 【公告】北醫基服第二十屆幹部名單       tmuGF.eml",
+    "attachments": [],
+    "raw_sha256": "1a04f301d564a9ab3133c650dee81a6169a7f6189ccd3ef828514275a34f774c",
+    "raw_git_blob_sha": "f0f74bf1fdf0c220bf1981479c3f9ecddcff609b",
+    "raw_size": 4265,
+    "preservation_format": "original-rfc822-bytes",
+    "headers": [
+      {
+        "name": "Delivered-To",
+        "value": "chiayao.chen@gmail.com"
+      },
+      {
+        "name": "Received",
+        "value": "by 10.107.1.75 with SMTP id 72csp536826iob;\r\n        Wed, 26 Apr 2017 11:48:02 -0700 (PDT)"
+      },
+      {
+        "name": "X-Received",
+        "value": "by 10.98.134.194 with SMTP id x185mr1422054pfd.106.1493232482869;\r\n        Wed, 26 Apr 2017 11:48:02 -0700 (PDT)"
+      },
+      {
+        "name": "Return-Path",
+        "value": "<weirdquark.bbs@bbs.tmu.edu.tw>"
+      },
+      {
+        "name": "Received",
+        "value": "from mgate.tmu.edu.tw (175-98-102-132.static.tfn.net.tw. [175.98.102.132])\r\n        by mx.google.com with ESMTP id 5si104880plx.70.2017.04.26.11.48.02\r\n        for <chiayao.chen@gmail.com>;\r\n        Wed, 26 Apr 2017 11:48:02 -0700 (PDT)"
+      },
+      {
+        "name": "Received-SPF",
+        "value": "neutral (google.com: 175.98.102.132 is neither permitted nor denied by best guess record for domain of weirdquark.bbs@bbs.tmu.edu.tw) client-ip=175.98.102.132;"
+      },
+      {
+        "name": "Authentication-Results",
+        "value": "mx.google.com;\r\n       spf=neutral (google.com: 175.98.102.132 is neither permitted nor denied by best guess record for domain of weirdquark.bbs@bbs.tmu.edu.tw) smtp.mailfrom=weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "Received",
+        "value": "from bbs.tmu.edu.tw (bbs.tmu.edu.tw [203.71.84.63])\r\n\tby mgate.tmu.edu.tw (8.13.0/8.13.0) with ESMTP id v3QIm2eR009489\r\n\tfor <chiayao.chen@gmail.com>; Thu, 27 Apr 2017 02:48:02 +0800"
+      },
+      {
+        "name": "Received",
+        "value": "from bbs.tmu.edu.tw (localhost.localdomain [127.0.0.1])\r\n\tby bbs.tmu.edu.tw (8.13.8/8.13.8/Debian-3) with ESMTP id v3QIm0Wo001769\r\n\tfor <chiayao.chen@gmail.com>; Thu, 27 Apr 2017 02:48:01 +0800"
+      },
+      {
+        "name": "Received",
+        "value": "(from bbs@localhost)\r\n\tby bbs.tmu.edu.tw (8.13.8/8.13.8/Submit) id v3QIltT6001768\r\n\tfor chiayao.chen@gmail.com; Thu, 27 Apr 2017 02:47:55 +0800"
+      },
+      {
+        "name": "Date",
+        "value": "Thu, 27 Apr 2017 02:47:55 +0800"
+      },
+      {
+        "name": "From",
+        "value": "weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<201704261847.v3QIltT6001768@bbs.tmu.edu.tw>"
+      },
+      {
+        "name": "X-Authentication-Warning",
+        "value": "bbs.tmu.edu.tw: bbs set sender to weirdquark.bbs@bbs.tmu.edu.tw using -f"
+      },
+      {
+        "name": "Reply-To",
+        "value": "weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "To",
+        "value": "chiayao.chen@gmail.com"
+      },
+      {
+        "name": "Subject",
+        "value": "[轉寄] 【公告】北醫基服第二十屆幹部名單       tmuGF "
+      },
+      {
+        "name": "X-Forwarded-By",
+        "value": "weirdquark (^+++^)"
+      },
+      {
+        "name": "X-Disclaimer",
+        "value": "杏林綠意 對本信內容恕不負責。"
+      },
+      {
+        "name": "Precedence",
+        "value": "junk"
+      }
+    ],
+    "mime_parts": [
+      {
+        "part_number": 1,
+        "mime_type": "text/plain",
+        "charset": null,
+        "content_transfer_encoding": null,
+        "content_disposition": null,
+        "content_id": null,
+        "filename": null,
+        "size": 2279
+      }
+    ]
+  },
+  {
+    "gmail_message_id": "15bab9826e8b2a56",
+    "gmail_thread_id": "15bab977a0c7a39e",
+    "date": "Thu, 27 Apr 2017 02:48:40 +0800",
+    "date_iso": "2017-04-27T02:48:40+08:00",
+    "date_epoch": 1493232520.0,
+    "from": "weirdquark.bbs@bbs.tmu.edu.tw",
+    "to": [
+      "chiayao.chen@gmail.com"
+    ],
+    "cc": [],
+    "bcc": [],
+    "reply_to": [
+      "weirdquark.bbs@bbs.tmu.edu.tw"
+    ],
+    "subject": "[轉寄] 【公告】北醫基服第二十屆幹部名單       tmuGF ",
+    "message_id_header": "<201704261848.v3QImeXQ001775@bbs.tmu.edu.tw>",
+    "in_reply_to": "",
+    "references": "",
+    "gmail_labels": [
+      "IMPORTANT",
+      "北醫基服/基服公告集/基服公告/基20幹部期間公告與大事記",
+      "CATEGORY_PERSONAL"
+    ],
+    "gmail_label_ids": [
+      "IMPORTANT",
+      "Label_64",
+      "CATEGORY_PERSONAL"
+    ],
+    "file": "20170427-024840__gmail-15bab9826e8b2a56__[轉寄] 【公告】北醫基服第二十屆幹部名單       tmuGF.eml",
+    "attachments": [],
+    "raw_sha256": "2d14551999abd9be92579e2e9c246587254652da7d6dc33c811ac0eb81bb8992",
+    "raw_git_blob_sha": "921f3391d5f53cf1987d1b52f1e0f2968c1034ac",
+    "raw_size": 4264,
+    "preservation_format": "original-rfc822-bytes",
+    "headers": [
+      {
+        "name": "Delivered-To",
+        "value": "chiayao.chen@gmail.com"
+      },
+      {
+        "name": "Received",
+        "value": "by 10.107.1.75 with SMTP id 72csp537129iob;\r\n        Wed, 26 Apr 2017 11:48:47 -0700 (PDT)"
+      },
+      {
+        "name": "X-Received",
+        "value": "by 10.98.211.27 with SMTP id q27mr1452601pfg.126.1493232527218;\r\n        Wed, 26 Apr 2017 11:48:47 -0700 (PDT)"
+      },
+      {
+        "name": "Return-Path",
+        "value": "<weirdquark.bbs@bbs.tmu.edu.tw>"
+      },
+      {
+        "name": "Received",
+        "value": "from mgate.tmu.edu.tw (175-98-102-132.static.tfn.net.tw. [175.98.102.132])\r\n        by mx.google.com with ESMTP id h8si84565plk.296.2017.04.26.11.48.46\r\n        for <chiayao.chen@gmail.com>;\r\n        Wed, 26 Apr 2017 11:48:47 -0700 (PDT)"
+      },
+      {
+        "name": "Received-SPF",
+        "value": "neutral (google.com: 175.98.102.132 is neither permitted nor denied by best guess record for domain of weirdquark.bbs@bbs.tmu.edu.tw) client-ip=175.98.102.132;"
+      },
+      {
+        "name": "Authentication-Results",
+        "value": "mx.google.com;\r\n       spf=neutral (google.com: 175.98.102.132 is neither permitted nor denied by best guess record for domain of weirdquark.bbs@bbs.tmu.edu.tw) smtp.mailfrom=weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "Received",
+        "value": "from bbs.tmu.edu.tw (bbs.tmu.edu.tw [203.71.84.63])\r\n\tby mgate.tmu.edu.tw (8.13.0/8.13.0) with ESMTP id v3QImkrD009494\r\n\tfor <chiayao.chen@gmail.com>; Thu, 27 Apr 2017 02:48:46 +0800"
+      },
+      {
+        "name": "Received",
+        "value": "from bbs.tmu.edu.tw (localhost.localdomain [127.0.0.1])\r\n\tby bbs.tmu.edu.tw (8.13.8/8.13.8/Debian-3) with ESMTP id v3QImjM7001776\r\n\tfor <chiayao.chen@gmail.com>; Thu, 27 Apr 2017 02:48:46 +0800"
+      },
+      {
+        "name": "Received",
+        "value": "(from bbs@localhost)\r\n\tby bbs.tmu.edu.tw (8.13.8/8.13.8/Submit) id v3QImeXQ001775\r\n\tfor chiayao.chen@gmail.com; Thu, 27 Apr 2017 02:48:40 +0800"
+      },
+      {
+        "name": "Date",
+        "value": "Thu, 27 Apr 2017 02:48:40 +0800"
+      },
+      {
+        "name": "From",
+        "value": "weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<201704261848.v3QImeXQ001775@bbs.tmu.edu.tw>"
+      },
+      {
+        "name": "X-Authentication-Warning",
+        "value": "bbs.tmu.edu.tw: bbs set sender to weirdquark.bbs@bbs.tmu.edu.tw using -f"
+      },
+      {
+        "name": "Reply-To",
+        "value": "weirdquark.bbs@bbs.tmu.edu.tw"
+      },
+      {
+        "name": "To",
+        "value": "chiayao.chen@gmail.com"
+      },
+      {
+        "name": "Subject",
+        "value": "[轉寄] 【公告】北醫基服第二十屆幹部名單       tmuGF "
+      },
+      {
+        "name": "X-Forwarded-By",
+        "value": "weirdquark (^+++^)"
+      },
+      {
+        "name": "X-Disclaimer",
+        "value": "杏林綠意 對本信內容恕不負責。"
+      },
+      {
+        "name": "Precedence",
+        "value": "junk"
+      }
+    ],
+    "mime_parts": [
+      {
+        "part_number": 1,
+        "mime_type": "text/plain",
+        "charset": null,
+        "content_transfer_encoding": null,
+        "content_disposition": null,
+        "content_id": null,
+        "filename": null,
+        "size": 2279
+      }
+    ]
+  }
+]
